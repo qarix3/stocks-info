@@ -22,3 +22,5 @@
 ### Data Provider
 
 ### Software Based
+
+* [Simply Wall St](https://play.google.com/store/apps/details?id=com.simplywallst.app) - Discover new long-term investment opportunities with Simply Wall St.
