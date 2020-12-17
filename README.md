@@ -22,5 +22,24 @@
 ### Data Provider
 
 ### Software Based
-
+* [Bursa Station](https://bursastation.com)
 * [Simply Wall St](https://play.google.com/store/apps/details?id=com.simplywallst.app) - Discover new long-term investment opportunities with Simply Wall St.
+
+
+## Trading Tools
+* Gann Support and Resistance
+* Pivot Point
+* Fibonacci
+* Risk Reward Ratio
+* Brokerage
+* Position Sizing
+* Compound Interest
+
+## Portfolio Theory
+
+* Risk 
+* Expected Return 
+* Risk Free Rate
+* Capital Market Line
+* Efficient Frontier
+
