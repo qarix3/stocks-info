@@ -15,16 +15,17 @@
 * [finviz](https://finviz.com/) - Stock screener for investors and traders, financial visualizations.
 * [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
 
-## News
+### News
 * [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
 * [Google Finance](https://www.google.com/finance) - Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading.  
 * [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories.
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
-## Blog
 
-## Forums
+### Blog
 
-## Learning Materials
+### Forums
+
+### Learning Materials
 * [Fool.com](https://www.fool.com/)
 * [Investopedia](https://www.investopedia.com/)
 
