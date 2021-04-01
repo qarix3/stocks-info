@@ -38,6 +38,14 @@
 ## Others
 * [Finbox](https://finbox.com/)
 
+## Brokers
+### Local Broker
+* [Maybank2u Online Stock](http://ost.maybank2u.com.my/)
+* [RHB TradeSmart](https://www.rhbtradesmart.com/)
+* [KenTrade](https://www.kentrade.com.my/)
+* [M+Online](https://www.mplusonline.com.my/)
+
+### International Broker
 ## Trading Tools
 * Gann Support and Resistance
 * Pivot Point
