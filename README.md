@@ -22,7 +22,7 @@
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 ## Blog
 
-### Forums
+## Forums
 
 ## Learning Materials
 * [Fool.com](https://www.fool.com/)
