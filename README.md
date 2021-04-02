@@ -16,13 +16,22 @@
 * [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
 * [Docoh.com](https://www.docoh.com/)
 
+
+* [KLSE Screener](https://www.klsescreener.com/v2/)
+* [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
+* [i3investor](https://klse.i3investor.com/index.jsp)
+* [Stockbit](https://my.stockbit.com/)
+* [Investing Malaysia](https://investingmalaysia.com/)
+
 ### News
 * [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
 * [Google Finance](https://www.google.com/finance) - Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading.  
 * [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories.
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 * [Barchart](https://www.barchart.com/)
-
+* [MartketWatch](https://www.marketwatch.com/investing/stocks)
+* [Financial Times](https://www.ft.com/)
+* [The Edge Market](https://www.theedgemarkets.com/)
 ### Blog
 
 ### Forums
@@ -33,10 +42,19 @@
 
 ### Software Based
 * [Bursa Station](https://bursastation.com)
+* [ShareInvestor](https://www.shareinvestor.com/)
 * [Simply Wall St](https://play.google.com/store/apps/details?id=com.simplywallst.app) - Discover new long-term investment opportunities with Simply Wall St.
+* [Stockopedia](https://www.stockopedia.com/)
 
 ## Others
 * [Finbox](https://finbox.com/)
+* [StockCharts](https://stockcharts.com/)
+* [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
+
+## Useful links
+* [Bursa Malaysia](https://www.bursamalaysia.com/)
+* [Bursa Anywhere](https://www.bursamarketplace.com/anywhere/)
+* [Bursa Marketplace](https://www.bursamarketplace.com/)
 
 ## Brokers
 ### Local Broker
