@@ -15,13 +15,13 @@
 * [finviz](https://finviz.com/) - Stock screener for investors and traders, financial visualizations.
 * [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
 * [Docoh.com](https://www.docoh.com/)
-
-
 * [KLSE Screener](https://www.klsescreener.com/v2/)
 * [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
 * [i3investor](https://klse.i3investor.com/index.jsp)
 * [Stockbit](https://my.stockbit.com/)
 * [Investing Malaysia](https://investingmalaysia.com/)
+* [Ortex](https://www.ortex.com/)
+* [Stock.Osfvad](http://stock.osfvad.com/)
 
 ### News
 * [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
