@@ -64,6 +64,25 @@
 * [M+Online](https://www.mplusonline.com.my/)
 
 ### International Broker
+* None
+
+## Unofficial API
+- [Multi]()
+  * [findatapy](https://github.com/cuemacro/findatapy)
+- [Yahoo! Finance](https://finance.yahoo.com/)
+    * [yahooquery](https://github.com/dpguthrie/yahooquery)
+    * [yfinance](https://github.com/ranaroussi/yfinance)
+    * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) **[Abandoned]**    
+    * [ystockquote](https://github.com/cgoldberg/ystockquote) **[Abandoned]**
+    * [yahoofinancials](https://github.com/JECSand/yahoofinancials)
+- [Investing.com](https://www.investing.com/stock-screener/)
+    * [investpy](https://github.com/alvarobartt/investpy)
+- [Quandl]()
+    * [quandl-python](https://github.com/quandl/quandl-python)
+- [TradingView]()
+    * [tview](https://github.com/jchao01/TradingView-data-scraper)
+- [FinViz]()
+    * [finviz](https://github.com/mariostoev/finviz)
 ## Trading Tools
 * Gann Support and Resistance
 * Pivot Point
