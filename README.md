@@ -88,6 +88,7 @@
   * [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
   * [AlphaVantageAPI](https://github.com/RomelTorres/alpha_vantage)
 ## Trading Tools
+* [Corporate Report](https://github.com/firmai/interactive-corporate-report)
 * Gann Support and Resistance
 * Pivot Point
 * Fibonacci
