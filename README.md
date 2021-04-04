@@ -83,6 +83,10 @@
     * [tview](https://github.com/jchao01/TradingView-data-scraper)
 - [FinViz]()
     * [finviz](https://github.com/mariostoev/finviz)
+    * [finvizfinance](https://github.com/lit26/finvizfinance)
+- [AlphaVantage]()
+  * [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
+  * [AlphaVantageAPI](https://github.com/RomelTorres/alpha_vantage)
 ## Trading Tools
 * Gann Support and Resistance
 * Pivot Point
