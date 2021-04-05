@@ -86,7 +86,9 @@
     * [finvizfinance](https://github.com/lit26/finvizfinance)
 - [AlphaVantage]()
   * [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
-  * [AlphaVantageAPI](https://github.com/RomelTorres/alpha_vantage)
+  * [AlphaVantageAPI]()
+
+https://github.com/dMLTquant/awesome_investing
 ## Trading Tools
 * [Corporate Report](https://github.com/firmai/interactive-corporate-report)
 * Gann Support and Resistance
