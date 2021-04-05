@@ -89,6 +89,8 @@
   * [AlphaVantageAPI]()
 
 https://github.com/dMLTquant/awesome_investing
+https://www.financialjuice.com/home
+
 ## Trading Tools
 * [Corporate Report](https://github.com/firmai/interactive-corporate-report)
 * Gann Support and Resistance
