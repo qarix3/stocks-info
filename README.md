@@ -9,10 +9,8 @@
 * [Data Provider/API](#data)
 
 ### Market News
-* [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories.
+* [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis.
 * [MarketWatch](https://www.marketwatch.com/investing/stocks)
-* [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports, and original content.
-* [Google Finance](https://www.google.com/finance) - Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading.  
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 * [Barchart](https://www.barchart.com/)
 * [Financial Times](https://www.ft.com/)
@@ -25,17 +23,9 @@
 * [Malaysia Chronicle](https://www.malaysia-chronicle.com/?p=203260)
 * [New Straits Times](https://www.nst.com.my/business/home)
 
-### Stock
-
-* [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
-* [Docoh.com](https://www.docoh.com/)
-* [KLSE Screener](https://www.klsescreener.com/v2/)
-* [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
-* [i3investor](https://klse.i3investor.com/index.jsp)
-* [Stockbit](https://my.stockbit.com/)
-* [Investing Malaysia](https://investingmalaysia.com/)
-* [Ortex](https://www.ortex.com/)
-* [Stock.Osfvad](http://stock.osfvad.com/)
+### Financial Data
+* [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports.
+* [Google Finance](https://www.google.com/finance) - Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics.
 
 #### Stock screener
 
@@ -43,7 +33,24 @@
 * [Investing](https://www.investing.com/) - Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
 * [finviz](https://finviz.com/) - Stock screener for investors and traders, financial visualizations.
 
+### Stock
+
+* [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
+* [Docoh.com](https://www.docoh.com/)
+* [Stockbit](https://my.stockbit.com/)
+* [Ortex](https://www.ortex.com/)
+* [Stock.Osfvad](http://stock.osfvad.com/)
+
+**Local**
+
+* [i3investor](https://klse.i3investor.com/index.jsp)
+* [KLSE Screener](https://www.klsescreener.com/v2/)
+* [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
+* [Investing Malaysia](https://investingmalaysia.com/)
+* [Bursa Marketplace](https://www.bursamarketplace.com/)
+
 #### Charting
+
 * [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
 
 ### Blog
@@ -65,10 +72,14 @@
 * [StockCharts](https://stockcharts.com/)
 * [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
 
-## Useful links
+**Local**
 * [Bursa Malaysia](https://www.bursamalaysia.com/)
 * [Bursa Anywhere](https://www.bursamarketplace.com/anywhere/)
-* [Bursa Marketplace](https://www.bursamarketplace.com/)
+
+**Statistics**
+
+https://www.bnm.gov.my/
+https://www.myasnb.com.my/
 
 ## Brokers
 ### Local Broker
@@ -80,8 +91,8 @@
 ### International Broker
 * None
 
-## Unofficial API
-- [Multi]()
+### Unofficial API
+- [Multiple]()
   * [findatapy](https://github.com/cuemacro/findatapy)
 - [Yahoo! Finance](https://finance.yahoo.com/)
     * [yahooquery](https://github.com/dpguthrie/yahooquery)
