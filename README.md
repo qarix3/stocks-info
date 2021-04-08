@@ -14,6 +14,7 @@
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 * [Barchart](https://www.barchart.com/)
 * [Financial Times](https://www.ft.com/)
+* [Forbes](https://www.forbes.com/)
 
 **Local News**
 
@@ -52,6 +53,7 @@
 #### Charting
 
 * [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
+* [Y-Chart](https://ycharts.com/)
 
 ### Blog
 
@@ -117,8 +119,33 @@ https://www.myasnb.com.my/
   * [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)
   * [fmp_python](https://github.com/ikbale/fmp_python)
   * [fmpsdk](https://github.com/daxm/fmpsdk)
+  
 https://github.com/dMLTquant/awesome_investing
 https://www.financialjuice.com/home
+https://www.longtermtrends.net/
+
+### Macro Analysis
+https://www.multpl.com/cpi
+https://www.macrotrends.net/
+https://csimarket.com/
+https://www.ceicdata.com/en
+https://tradingeconomics.com/indicators
+https://www.emis.com/countries/Malaysia
+
+### Portfolio Builder
+https://www.slickcharts.com/
+https://www.macroaxis.com/ 
+
+### Economic Calendar
+https://global-premium.econoday.com/byweek.asp?cust=global-premium
+
+### Analytics
+https://www.moodysanalytics.com/
+
+### Foreign Exchange
+
+### ETF
+https://www.etf.com/
 
 ## Trading Tools
 * [Corporate Report](https://github.com/firmai/interactive-corporate-report)
