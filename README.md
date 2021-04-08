@@ -60,7 +60,8 @@
 ### Learning Materials
 * [Fool.com](https://www.fool.com/)
 * [Investopedia](https://www.investopedia.com/)
-
+* [Investing Answer](https://investinganswers.com/)
+  
 ### Software Based
 * [Bursa Station](https://bursastation.com)
 * [ShareInvestor](https://www.shareinvestor.com/)
@@ -112,7 +113,10 @@ https://www.myasnb.com.my/
 - [AlphaVantage]()
   * [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
   * [AlphaVantageAPI]()
-
+- [Financial Model Prep](https://financialmodelingprep.com/)
+  * [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)
+  * [fmp_python](https://github.com/ikbale/fmp_python)
+  * [fmpsdk](https://github.com/daxm/fmpsdk)
 https://github.com/dMLTquant/awesome_investing
 https://www.financialjuice.com/home
 
