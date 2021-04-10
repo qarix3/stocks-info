@@ -120,32 +120,32 @@ https://www.myasnb.com.my/
   * [fmp_python](https://github.com/ikbale/fmp_python)
   * [fmpsdk](https://github.com/daxm/fmpsdk)
   
-https://github.com/dMLTquant/awesome_investing
-https://www.financialjuice.com/home
-https://www.longtermtrends.net/
+https://github.com/dMLTquant/awesome_investing  
+https://www.financialjuice.com/home  
+https://www.longtermtrends.net/  
 
 ### Macro Analysis
-https://www.multpl.com/cpi
-https://www.macrotrends.net/
-https://csimarket.com/
-https://www.ceicdata.com/en
-https://tradingeconomics.com/indicators
-https://www.emis.com/countries/Malaysia
+* [macrotrends](https://www.macrotrends.net/)
+* [multpl](https://www.multpl.com/cpi)
+* [csimarket](https://csimarket.com/)
+* [ceidata](https://www.ceicdata.com/en)
+* [tradingeconomics](https://tradingeconomics.com/indicators)
+* [emis](https://www.emis.com/countries/Malaysia)
 
 ### Portfolio Builder
-https://www.slickcharts.com/
-https://www.macroaxis.com/ 
+* [Slickcharts](https://www.slickcharts.com/)
+* [Macroaxis](https://www.macroaxis.com/)
 
 ### Economic Calendar
-https://global-premium.econoday.com/byweek.asp?cust=global-premium
+* [Econoday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
 
 ### Analytics
-https://www.moodysanalytics.com/
-
-### Foreign Exchange
+* [MoodyAnalutics](https://www.moodysanalytics.com/)
 
 ### ETF
-https://www.etf.com/
+* [ETF.com](https://www.etf.com/)
+
+### Foreign Exchange
 
 ## Trading Tools
 * [Corporate Report](https://github.com/firmai/interactive-corporate-report)
