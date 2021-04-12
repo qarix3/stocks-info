@@ -24,7 +24,7 @@
 * [Investing](https://www.investing.com/) - Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
 * [finviz](https://finviz.com/) - Stock screener for investors and traders, financial visualizations.
 
-**Special**
+**S00**
 * [Ziggma](https://ziggma.com/)
 * [Edge|Yewno](https://edge.yewno.com/)
 * [Koyfin](https://www.koyfin.com/data-coverage/stocks/)
@@ -42,6 +42,7 @@
 * [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
 
 ### oo
+* [RISKO](http://www.risk-o.com/)
 * [Docoh.com](https://www.docoh.com/)
 * [Stockbit](https://my.stockbit.com/)
 * [Ortex](https://www.ortex.com/)
@@ -71,10 +72,37 @@
 * [World Bank](https://data.worldbank.org/)
 * [StLouis Fed](https://fred.stlouisfed.org/release?rid=239)
 * [Statista](https://www.statista.com/)
+ 
+https://github.com/dMLTquant/awesome_investing  
+https://www.financialjuice.com/home  
+https://www.longtermtrends.net/  
+https://www.riskalyze.com/advisors
+https://iongroup.com/ion-markets/eq/fidessa/
+https://www.morningstar.com/products
+
+### Macro Analysis
+* [macrotrends](https://www.macrotrends.net/)
+* [multpl](https://www.multpl.com/cpi)
+* [csimarket](https://csimarket.com/)
+* [ceidata](https://www.ceicdata.com/en)
+* [tradingeconomics](https://tradingeconomics.com/indicators)
+* [emis](https://www.emis.com/countries/Malaysia)
+
+### Analytics
+* [MoodyAnalutics](https://www.moodysanalytics.com/)
+
+### Software/Web-based 
+* [Bloomberg Terminal](https://www.bloomberg.com/terminal)
+* [Refinitive Eikon](https://eikon.thomsonreuters.com/index.html)
+* [Bezinga Pro](https://pro.benzinga.com/login/?gspk=&gsxid=07Fic7yj36KN)
+* [Money.net](https://www.money.net/)
+* [Y-Chart](https://ycharts.com/)
+
+### ETF
+* [ETF.com](https://www.etf.com/)
 
 ### API Providers
 **Fundamental/Market Data**
-
 - [Polygon](https://polygon.io/docs/getting-started)
 - [marketstack](https://marketstack.com/documentation)
 - [Intrinio](https://docs.intrinio.com/documentation/api_v2/getting_started)
@@ -129,34 +157,4 @@ https://www.bloomberg.com/professional/
   * [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)
   * [fmp_python](https://github.com/ikbale/fmp_python)
   * [fmpsdk](https://github.com/daxm/fmpsdk)
-  
-https://github.com/dMLTquant/awesome_investing  
-https://www.financialjuice.com/home  
-https://www.longtermtrends.net/  
-https://www.riskalyze.com/advisors
-https://iongroup.com/ion-markets/eq/fidessa/
-https://www.morningstar.com/products
-
-### Macro Analysis
-* [macrotrends](https://www.macrotrends.net/)
-* [multpl](https://www.multpl.com/cpi)
-* [csimarket](https://csimarket.com/)
-* [ceidata](https://www.ceicdata.com/en)
-* [tradingeconomics](https://tradingeconomics.com/indicators)
-* [emis](https://www.emis.com/countries/Malaysia)
-
-### Analytics
-* [MoodyAnalutics](https://www.moodysanalytics.com/)
-
-### Software/Web-based 
-* [Bloomberg Terminal](https://www.bloomberg.com/terminal)
-* [Refinitive Eikon](https://eikon.thomsonreuters.com/index.html)
-* [Bezinga Pro](https://pro.benzinga.com/login/?gspk=&gsxid=07Fic7yj36KN)
-* [Money.net](https://www.money.net/)
-* [Y-Chart](https://ycharts.com/)
-
-### ETF
-* [ETF.com](https://www.etf.com/)
-
-### Foreign Exchange
 
