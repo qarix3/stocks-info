@@ -2,37 +2,31 @@
  > Collections of website that provides stocks information for future use.
 
 * [Market News](#market-news)
-* [News](#news)
-* [Mobile Application](#application)
-* [Forums](#forums)
-* [Buletin Boards](#buletin)
-* [Data Provider/API](#data)
+* [API Provider](#api-providers)
 
 ### Market News
 * [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis.
+* [Thomson Reuters](https://www.reuters.com/markets)
+* [Financial Times](https://www.ft.com/)
+
+* [Forbes](https://www.forbes.com/)
 * [MarketWatch](https://www.marketwatch.com/investing/stocks)
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 * [Barchart](https://www.barchart.com/)
-* [Financial Times](https://www.ft.com/)
-* [Forbes](https://www.forbes.com/)
 
-**Local News**
+### Market Insight & Analytics
 
-* [Bernama](https://bernama.com/en/business/index.php)
-* [The Star](https://www.thestar.com.my/business)
-* [The Edge Market](https://www.theedgemarkets.com/)
-* [Malaysia Chronicle](https://www.malaysia-chronicle.com/?p=203260)
-* [New Straits Times](https://www.nst.com.my/business/home)
-
-### Financial Data
 * [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports.
 * [Google Finance](https://www.google.com/finance) - Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics.
-
-#### Stock screener
-
-* [Simplywall.st](https://simplywall.st/about) - For people loving charts and visual. Deep look into specific stocks
+* [MSN Money](https://www.msn.com/en-my/money)
 * [Investing](https://www.investing.com/) - Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
 * [finviz](https://finviz.com/) - Stock screener for investors and traders, financial visualizations.
+* [Ziggma](https://ziggma.com/)
+* [Edge|Yewno](https://edge.yewno.com/)
+
+#### Stock Screener
+
+* [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks
 
 ### Stock
 
@@ -41,62 +35,67 @@
 * [Stockbit](https://my.stockbit.com/)
 * [Ortex](https://www.ortex.com/)
 * [Stock.Osfvad](http://stock.osfvad.com/)
-
-**Local**
-
-* [i3investor](https://klse.i3investor.com/index.jsp)
-* [KLSE Screener](https://www.klsescreener.com/v2/)
-* [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
-* [Investing Malaysia](https://investingmalaysia.com/)
-* [Bursa Marketplace](https://www.bursamarketplace.com/)
+* [StockRover](https://www.stockrover.com/)
 
 #### Charting
 
 * [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
 * [Y-Chart](https://ycharts.com/)
-
-### Blog
-
-### Forums
+* [Darqube](https://darqube.com/)
 
 ### Learning Materials
+
 * [Fool.com](https://www.fool.com/)
+* [Stockopedia](https://www.stockopedia.com/)
 * [Investopedia](https://www.investopedia.com/)
 * [Investing Answer](https://investinganswers.com/)
-  
-### Software Based
-* [Bursa Station](https://bursastation.com)
-* [ShareInvestor](https://www.shareinvestor.com/)
-* [Simply Wall St](https://play.google.com/store/apps/details?id=com.simplywallst.app) - Discover new long-term investment opportunities with Simply Wall St.
-* [Stockopedia](https://www.stockopedia.com/)
 
 ## Others
+
 * [Finbox](https://finbox.com/)
 * [StockCharts](https://stockcharts.com/)
 * [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
 
-**Local**
-* [Bursa Malaysia](https://www.bursamalaysia.com/)
-* [Bursa Anywhere](https://www.bursamarketplace.com/anywhere/)
+### API Providers
+**Fundamental/Market Data**
 
-**Statistics**
+- [Polygon](https://polygon.io/docs/getting-started)
+- [marketstack](https://marketstack.com/documentation)
+- [Intrinio](https://docs.intrinio.com/documentation/api_v2/getting_started)
+- [Finnhub](https://finnhub.io/docs/api)
+- [Alpaca](https://alpaca.markets/docs/)
+- [twelvedata](https://twelvedata.com/docs#getting-started)
+- [IEX Cloud](https://iexcloud.io/core-data-catalog/)
+- [Alpha Vantage](https://www.alphavantage.co/documentation/)
+- [EOD Historical Data](https://eodhistoricaldata.com/)
+- [Financial Modeling Prep](https://financialmodelingprep.com/developer/docs/)
 
-https://www.bnm.gov.my/
-https://www.myasnb.com.my/
+**Broker API**
 
-## Brokers
-### Local Broker
-* [Maybank2u Online Stock](http://ost.maybank2u.com.my/)
-* [RHB TradeSmart](https://www.rhbtradesmart.com/)
-* [KenTrade](https://www.kentrade.com.my/)
-* [M+Online](https://www.mplusonline.com.my/)
+- [SAXO Bank](https://www.developer.saxo/openapi/learn)
+- [Interactive Broker](https://www.interactivebrokers.com/en/index.php?f=14193)
 
-### International Broker
-* None
+**Economic Data** 
+
+- [Quantdl](https://www.quandl.com/search)
+- [DataHub.io](https://datahub.io/search)
+
+**Economic Calendar**  
+
+- [Econday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
+
+**News**
+
+- [News API](https://newsapi.org/docs)
+- [Media Stack](https://mediastack.com/documentation)
+
+**Unsorted**
+
+- [Bloomberg]https://www.bloomberg.com/professional/support/api-library/
 
 ### Unofficial API
-- [Multiple]()
-  * [findatapy](https://github.com/cuemacro/findatapy)
+
+* [findatapy](https://github.com/cuemacro/findatapy)
 - [Yahoo! Finance](https://finance.yahoo.com/)
     * [yahooquery](https://github.com/dpguthrie/yahooquery)
     * [yfinance](https://github.com/ranaroussi/yfinance)
@@ -136,9 +135,6 @@ https://www.longtermtrends.net/
 * [Slickcharts](https://www.slickcharts.com/)
 * [Macroaxis](https://www.macroaxis.com/)
 
-### Economic Calendar
-* [Econoday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
-
 ### Analytics
 * [MoodyAnalutics](https://www.moodysanalytics.com/)
 
@@ -146,14 +142,4 @@ https://www.longtermtrends.net/
 * [ETF.com](https://www.etf.com/)
 
 ### Foreign Exchange
-
-## Trading Tools
-* [Corporate Report](https://github.com/firmai/interactive-corporate-report)
-* Gann Support and Resistance
-* Pivot Point
-* Fibonacci
-* Risk Reward Ratio
-* Brokerage
-* Position Sizing
-* Compound Interest
 
