@@ -16,6 +16,7 @@
 * [Forbes](https://www.forbes.com/)
 * [MarketWatch](https://www.marketwatch.com/investing/stocks)
 * [Barchart](https://www.barchart.com/)
+* [Investors.com](https://newhome.investors.com/)
 
 ### Market Insight & Analytics
 * [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports.
@@ -52,6 +53,7 @@
 #### Charting
 * [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
 * [Darqube](https://darqube.com/)
+* [StockChart](https://stockcharts.com/)
 
 ### Learning Materials
 * [Fool.com](https://www.fool.com/)
@@ -59,6 +61,8 @@
 * [Investopedia](https://www.investopedia.com/)
 * [Investing Answer](https://investinganswers.com/)
 * [the balance](https://www.thebalance.com/)
+* [Finance Train](https://financetrain.com/)
+* [Trading Strategy Guide](https://tradingstrategyguides.com/)
 
 ## Others
 * [Finbox](https://finbox.com/)
@@ -72,21 +76,25 @@
 * [World Bank](https://data.worldbank.org/)
 * [StLouis Fed](https://fred.stlouisfed.org/release?rid=239)
 * [Statista](https://www.statista.com/)
+* [Macrotrends](https://www.macrotrends.net/)
+* [multpl](https://www.multpl.com/cpi)
+* [CSIMarket](https://csimarket.com/)
+* [CEIC](https://www.ceicdata.com/en)
+* [Tradingeconomics](https://tradingeconomics.com/indicators)
+* [EMIS](https://www.emis.com/)
  
+### Community
+[Stocktwits](https://stocktwits.com/) -  Social Network for investors and traders
+
+### Unsorted
 https://github.com/dMLTquant/awesome_investing  
 https://www.financialjuice.com/home  
 https://www.longtermtrends.net/  
-https://www.riskalyze.com/advisors
-https://iongroup.com/ion-markets/eq/fidessa/
-https://www.morningstar.com/products
-
-### Macro Analysis
-* [macrotrends](https://www.macrotrends.net/)
-* [multpl](https://www.multpl.com/cpi)
-* [csimarket](https://csimarket.com/)
-* [ceidata](https://www.ceicdata.com/en)
-* [tradingeconomics](https://tradingeconomics.com/indicators)
-* [emis](https://www.emis.com/countries/Malaysia)
+https://www.riskalyze.com/advisors  
+https://iongroup.com/ion-markets/eq/fidessa/  
+https://www.morningstar.com/products  
+https://capital.com/trading/platform/  
+https://www.streetinsider.com/  
 
 ### Analytics
 * [MoodyAnalutics](https://www.moodysanalytics.com/)
@@ -129,8 +137,8 @@ https://www.morningstar.com/products
 - [News API](https://newsapi.org/docs)
 - [Media Stack](https://mediastack.com/documentation)
 
-**Unsorted**
-https://www.refinitiv.com/en
+**Unsorted**  
+https://www.refinitiv.com/en  
 https://www.bloomberg.com/professional/
 
 ### Unofficial API
