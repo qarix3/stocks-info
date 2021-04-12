@@ -9,12 +9,12 @@
 * [Thomson Reuters](https://www.reuters.com/markets)
 * [Financial Times](https://www.ft.com/)
 * [The Economist](https://www.economist.com/)
+* [Barrons](https://www.barrons.com/)
 * [CNBC](https://www.cnbc.com/markets/)
 * [Bezinga](https://www.benzinga.com/markets)
 * [Wall Street Journal](https://www.wsj.com/news/markets)
 * [Forbes](https://www.forbes.com/)
 * [MarketWatch](https://www.marketwatch.com/investing/stocks)
-* [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 * [Barchart](https://www.barchart.com/)
 
 ### Market Insight & Analytics
@@ -30,11 +30,18 @@
 * [Koyfin](https://www.koyfin.com/data-coverage/stocks/)
 * [Tiingo](https://www.tiingo.com/)
 
-#### Stock Screener
-* [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks
+### Portfolio Builder
+* [Slickcharts](https://www.slickcharts.com/)
+* [Macroaxis](https://www.macroaxis.com/)
 
-### Stock
+### Portfolio
+* [acorns](https://www.acorns.com/invest/)
+* [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
+* [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks
+* [gurufocus](https://www.gurufocus.com/screener?name=Full%20Stock%20List&id=42619)
 * [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
+
+### oo
 * [Docoh.com](https://www.docoh.com/)
 * [Stockbit](https://my.stockbit.com/)
 * [Ortex](https://www.ortex.com/)
@@ -43,7 +50,6 @@
 
 #### Charting
 * [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
-* [Y-Chart](https://ycharts.com/)
 * [Darqube](https://darqube.com/)
 
 ### Learning Materials
@@ -51,11 +57,20 @@
 * [Stockopedia](https://www.stockopedia.com/)
 * [Investopedia](https://www.investopedia.com/)
 * [Investing Answer](https://investinganswers.com/)
+* [the balance](https://www.thebalance.com/)
 
 ## Others
 * [Finbox](https://finbox.com/)
 * [StockCharts](https://stockcharts.com/)
 * [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
+
+### Economics Data
+* [IMF Data](imf.org/en/Data)
+* [Bureau Economic Agencies](https://www.bea.gov/)
+* [Organisation for Economic Co-operation and Development](https://data.oecd.org/)
+* [World Bank](https://data.worldbank.org/)
+* [StLouis Fed](https://fred.stlouisfed.org/release?rid=239)
+* [Statista](https://www.statista.com/)
 
 ### API Providers
 **Fundamental/Market Data**
@@ -118,6 +133,9 @@ https://www.bloomberg.com/professional/
 https://github.com/dMLTquant/awesome_investing  
 https://www.financialjuice.com/home  
 https://www.longtermtrends.net/  
+https://www.riskalyze.com/advisors
+https://iongroup.com/ion-markets/eq/fidessa/
+https://www.morningstar.com/products
 
 ### Macro Analysis
 * [macrotrends](https://www.macrotrends.net/)
@@ -127,16 +145,15 @@ https://www.longtermtrends.net/
 * [tradingeconomics](https://tradingeconomics.com/indicators)
 * [emis](https://www.emis.com/countries/Malaysia)
 
-### Portfolio Builder
-* [Slickcharts](https://www.slickcharts.com/)
-* [Macroaxis](https://www.macroaxis.com/)
-
 ### Analytics
 * [MoodyAnalutics](https://www.moodysanalytics.com/)
 
-### Software 
-- [Bloomberg Terminal](https://www.bloomberg.com/terminal)
-- [Bezinga Pro](https://pro.benzinga.com/login/?gspk=&gsxid=07Fic7yj36KN)
+### Software/Web-based 
+* [Bloomberg Terminal](https://www.bloomberg.com/terminal)
+* [Refinitive Eikon](https://eikon.thomsonreuters.com/index.html)
+* [Bezinga Pro](https://pro.benzinga.com/login/?gspk=&gsxid=07Fic7yj36KN)
+* [Money.net](https://www.money.net/)
+* [Y-Chart](https://ycharts.com/)
 
 ### ETF
 * [ETF.com](https://www.etf.com/)
