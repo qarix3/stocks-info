@@ -8,28 +8,32 @@
 * [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis.
 * [Thomson Reuters](https://www.reuters.com/markets)
 * [Financial Times](https://www.ft.com/)
-
+* [The Economist](https://www.economist.com/)
+* [CNBC](https://www.cnbc.com/markets/)
+* [Bezinga](https://www.benzinga.com/markets)
+* [Wall Street Journal](https://www.wsj.com/news/markets)
 * [Forbes](https://www.forbes.com/)
 * [MarketWatch](https://www.marketwatch.com/investing/stocks)
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 * [Barchart](https://www.barchart.com/)
 
 ### Market Insight & Analytics
-
 * [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports.
 * [Google Finance](https://www.google.com/finance) - Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics.
 * [MSN Money](https://www.msn.com/en-my/money)
 * [Investing](https://www.investing.com/) - Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
 * [finviz](https://finviz.com/) - Stock screener for investors and traders, financial visualizations.
+
+**Special**
 * [Ziggma](https://ziggma.com/)
 * [Edge|Yewno](https://edge.yewno.com/)
+* [Koyfin](https://www.koyfin.com/data-coverage/stocks/)
+* [Tiingo](https://www.tiingo.com/)
 
 #### Stock Screener
-
 * [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks
 
 ### Stock
-
 * [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
 * [Docoh.com](https://www.docoh.com/)
 * [Stockbit](https://my.stockbit.com/)
@@ -38,20 +42,17 @@
 * [StockRover](https://www.stockrover.com/)
 
 #### Charting
-
 * [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
 * [Y-Chart](https://ycharts.com/)
 * [Darqube](https://darqube.com/)
 
 ### Learning Materials
-
 * [Fool.com](https://www.fool.com/)
 * [Stockopedia](https://www.stockopedia.com/)
 * [Investopedia](https://www.investopedia.com/)
 * [Investing Answer](https://investinganswers.com/)
 
 ## Others
-
 * [Finbox](https://finbox.com/)
 * [StockCharts](https://stockcharts.com/)
 * [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
@@ -71,30 +72,25 @@
 - [Financial Modeling Prep](https://financialmodelingprep.com/developer/docs/)
 
 **Broker API**
-
 - [SAXO Bank](https://www.developer.saxo/openapi/learn)
 - [Interactive Broker](https://www.interactivebrokers.com/en/index.php?f=14193)
 
-**Economic Data** 
-
+**Economic Data**
 - [Quantdl](https://www.quandl.com/search)
 - [DataHub.io](https://datahub.io/search)
 
-**Economic Calendar**  
-
+**Economic Calendar**
 - [Econday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
 
 **News**
-
 - [News API](https://newsapi.org/docs)
 - [Media Stack](https://mediastack.com/documentation)
 
 **Unsorted**
-
-- [Bloomberg]https://www.bloomberg.com/professional/support/api-library/
+https://www.refinitiv.com/en
+https://www.bloomberg.com/professional/
 
 ### Unofficial API
-
 * [findatapy](https://github.com/cuemacro/findatapy)
 - [Yahoo! Finance](https://finance.yahoo.com/)
     * [yahooquery](https://github.com/dpguthrie/yahooquery)
@@ -137,6 +133,10 @@ https://www.longtermtrends.net/
 
 ### Analytics
 * [MoodyAnalutics](https://www.moodysanalytics.com/)
+
+### Software 
+- [Bloomberg Terminal](https://www.bloomberg.com/terminal)
+- [Bezinga Pro](https://pro.benzinga.com/login/?gspk=&gsxid=07Fic7yj36KN)
 
 ### ETF
 * [ETF.com](https://www.etf.com/)
