@@ -135,36 +135,36 @@ https://github.com/dMLTquant/awesome_investing
 * [Refinitiv](https://www.refinitiv.com/en)
 * [Bloomberg](https://www.bloomberg.com/professional/)
 
+---
 ### Unofficial API
-**Multi**  
-* [findatapy](https://github.com/cuemacro/findatapy)
+- **Yahoo! Finance**  
+    * [yahooquery](https://github.com/dpguthrie/yahooquery)
+    * [yfinance](https://github.com/ranaroussi/yfinance)
+    * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) **[Abandoned]**    
+    * [ystockquote](https://github.com/cgoldberg/ystockquote) **[Abandoned]**
+    * [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 
-**Yahoo! Finance**  
-* [yahooquery](https://github.com/dpguthrie/yahooquery)
-* [yfinance](https://github.com/ranaroussi/yfinance)
-* [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) **[Abandoned]**    
-* [ystockquote](https://github.com/cgoldberg/ystockquote) **[Abandoned]**
-* [yahoofinancials](https://github.com/JECSand/yahoofinancials)
+- **Investing.com**
+    * [investpy](https://github.com/alvarobartt/investpy)
 
-**Investing.com**
-* [investpy](https://github.com/alvarobartt/investpy)
+- **Quandl**
+    * [quandl-python](https://github.com/quandl/quandl-python)
 
-**Quandl**
-* [quandl-python](https://github.com/quandl/quandl-python)
+- **TadingView**
+    * [tview](https://github.com/jchao01/TradingView-data-scraper)
 
-**TadingView**
-* [tview](https://github.com/jchao01/TradingView-data-scraper)
+- **FinViz**
+    * [finviz](https://github.com/mariostoev/finviz)
+    * [finvizfinance](https://github.com/lit26/finvizfinance)
 
-**FinViz**
-* [finviz](https://github.com/mariostoev/finviz)
-* [finvizfinance](https://github.com/lit26/finvizfinance)
+- **AlphaVantage**
+    * [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
+    * [AlphaVantageAPI]()
 
-**AlphaVantage**
-  * [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
-  * [AlphaVantageAPI]()
+- **Financial Model Prep**
+    * [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)
+    * [fmp_python](https://github.com/ikbale/fmp_python)
+    * [fmpsdk](https://github.com/daxm/fmpsdk)
 
-**Financial Model Prep**
-* [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)
-* [fmp_python](https://github.com/ikbale/fmp_python)
-* [fmpsdk](https://github.com/daxm/fmpsdk)
-
+- **Multi**  
+    * [findatapy](https://github.com/cuemacro/findatapy)
