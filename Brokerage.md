@@ -1,34 +1,3 @@
-Affin Hwang Capital
-0 - 100k 0.7%
-100k 0.7%
-Intraday 0.15%
-Minimun RM28
-
-AmEquities
-0.05%
-Minimun RM28
-
-Maybank
-0.42%
-Intraday 0.15%
-Minimum RM12
-
-Mercury Securities
-
-0 - 100k 
-
-Rakuten Trade
-
-RHB Invest
-0.42%
-Minimum RM12
-
-UOBKayHian
-0 - 100k 0.3%
-100k 0.2%
-Intraday 0.1%
-Minimum RM8
-
 | Broker              | Cash Upfront  | Minimum (RM) |  < RM100k |  > RM100K | Intraday |
 |---------------------|---------------|--------------|-----------|-----------|----------|
 | AFFIN HWANG CAPITAL | -             | 28           | 0.7       | 0.7       | 0.15     |
@@ -37,16 +6,21 @@ Minimum RM8
 | HONG LEONG BANK     |               | 8            |           |           | 0.1      |
 | MPLUS ONLINE SILVER |               | 8            |           |           |          |
 | MPLUS ONLINE GOLD   |               |              |           |           |          |
+| MAYBANK             | -             | 8            |           |           | 0.15     |
+| MERCURY SECURITIES  ||||||
+| RAKUTEN TRADE       ||||||
+| RHB INVEST          ||||||
+| UOBKAYHIAN          ||||||
 
 BursaStation
 
-[Historical Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=1&datetime=yyyymmdd)
-[Intraday Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=2&datetime=yyyymmdd)
-[Financial](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)
-[Action News](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)
-[Insider Main](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)
-[Insider All](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)
-[Fact Sheet](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010) 
+[Historical Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=1&datetime=yyyymmdd)  
+[Intraday Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=2&datetime=yyyymmdd)  
+[Financial](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)   
+[Action News](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
+[Insider Main](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
+[Insider All](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
+[Fact Sheet](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)   
 
 ## Brokers
 ### Local News
@@ -88,8 +62,9 @@ BursaStation
 * [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
 * [Investing Malaysia](https://investingmalaysia.com/)
 
-https://www.bnm.gov.my/  
-https://www.myasnb.com.my/
+#### ETF
+[BNM](https://www.bnm.gov.my/)   
+[MYASB](https://www.myasnb.com.my/) 
 
 ## Trading Tools
 * [Corporate Report](https://github.com/firmai/interactive-corporate-report)
