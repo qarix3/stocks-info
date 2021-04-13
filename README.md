@@ -58,7 +58,7 @@
 * [Finance Train](https://financetrain.com/)
 * [Trading Strategy Guide](https://tradingstrategyguides.com/)
 
-## Others
+### Others
 * [Finbox](https://finbox.com/)
 * [StockCharts](https://stockcharts.com/)
 * [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
@@ -78,16 +78,16 @@
 * [EMIS](https://www.emis.com/)
  
 ### Community
-[Stocktwits](https://stocktwits.com/) -  Social Network for investors and traders
+* [Stocktwits](https://stocktwits.com/) -  Social Network for investors and traders
 
 ### Unsorted
-https://github.com/dMLTquant/awesome_investing  
-[Financial Juice](https://www.financialjuice.com/home) 
-[Long Term Trends](https://www.longtermtrends.net/) 
-[Riskalyze](https://www.riskalyze.com/advisors)  
-[Fidessa](https://iongroup.com/ion-markets/eq/fidessa/)
-[Morningstar](https://www.morningstar.com/products)
-[StreetInsider](https://www.streetinsider.com/)
+* https://github.com/dMLTquant/awesome_investing  
+* [Financial Juice](https://www.financialjuice.com/home) 
+* [Long Term Trends](https://www.longtermtrends.net/) 
+* [Riskalyze](https://www.riskalyze.com/advisors)  
+* [Fidessa](https://iongroup.com/ion-markets/eq/fidessa/)
+* [Morningstar](https://www.morningstar.com/products)
+* [StreetInsider](https://www.streetinsider.com/)
 
 ### Analytics
 * [MoodyAnalutics](https://www.moodysanalytics.com/)
@@ -119,6 +119,7 @@ https://github.com/dMLTquant/awesome_investing
 - [SAXO Bank](https://www.developer.saxo/openapi/learn)
 - [Interactive Broker](https://www.interactivebrokers.com/en/index.php?f=14193)
 - [Capital.com](https://capital.com/trading/platform/)
+- [Tradier](https://tradier.com/products/market-data-api)
 
 **Economic Data**
 - [Quantdl](https://www.quandl.com/search)
@@ -134,6 +135,10 @@ https://github.com/dMLTquant/awesome_investing
 **Unsorted**  
 * [Refinitiv](https://www.refinitiv.com/en)
 * [Bloomberg](https://www.bloomberg.com/professional/)
+
+**Forex**  
+* [Currencylayer](https://currencylayer.com/)
+*
 
 ---
 ### Unofficial API
