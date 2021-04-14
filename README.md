@@ -138,7 +138,6 @@
 
 **Forex**  
 * [Currencylayer](https://currencylayer.com/)
-*
 
 ---
 ### Unofficial API
@@ -164,7 +163,7 @@
 
 - **AlphaVantage**
     * [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
-    * [AlphaVantageAPI]()
+    * [AlphaVantageAPI](https://github.com/twopirllc/AlphaVantageAPI)
 
 - **Financial Model Prep**
     * [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)
