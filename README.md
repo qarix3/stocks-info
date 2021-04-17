@@ -172,3 +172,4 @@
 
 - **Multi**  
     * [findatapy](https://github.com/cuemacro/findatapy)
+    * [pandas datareader](https://github.com/pydata/pandas-datareader)
