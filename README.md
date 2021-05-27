@@ -114,19 +114,21 @@
 
 ## API Providers
 
-## Fundamental/Market Data
+Fundamental/Market Data
 
-- [Polygon](https://polygon.io/docs/getting-started)
-- [marketstack](https://marketstack.com/documentation)
-- [Intrinio](https://docs.intrinio.com/documentation/api_v2/getting_started)
-- [Finnhub](https://finnhub.io/docs/api)
-- [Alpaca](https://alpaca.markets/docs/)
-- [twelvedata](https://twelvedata.com/docs#getting-started)
-- [IEX Cloud](https://iexcloud.io/core-data-catalog/)
-- [Alpha Vantage](https://www.alphavantage.co/documentation/)
-- [EOD Historical Data](https://eodhistoricaldata.com/)
-- [Financial Modeling Prep](https://financialmodelingprep.com/developer/docs/)
-
+* [Getting Started - Polygon.io](https://polygon.io/docs/getting-started)
+* [API Documentation - marketstack](https://marketstack.com/documentation)
+* [Getting Started - APIv2 Documentation | Intrinio](https://docs.intrinio.com/documentation/api_v2/getting_started)
+* [API Documentation | Finnhub - Free APIs for realtime stock, forex, and cryptocurrency. Company fundamentals, economic data, and alternative data.](https://finnhub.io/docs/api)
+* [Documentation | Alpaca](https://alpaca.markets/docs/)
+* [API Documentation - Twelve Data](https://twelvedata.com/docs#getting-started)
+* [Core Data Catalog | IEX Cloud](https://iexcloud.io/core-data-catalog/)
+* [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)
+* [Historical Prices and Fundamental Financial Data API](https://eodhistoricaldata.com/)
+* [Free Stock API and Financial Statements API - FMP API](https://financialmodelingprep.com/developer/docs/)
+* [Financial Technology, Data, and Expertise | Refinitiv](https://www.refinitiv.com/en)
+* [Bloomberg Professional Services | Bloomberg Finance L.P.](https://www.bloomberg.com/professional/)
+  
 Broker API
 
 - [SAXO Bank](https://www.developer.saxo/openapi/learn)
@@ -148,11 +150,15 @@ News
 - [News API](https://newsapi.org/docs)
 - [Media Stack](https://mediastack.com/documentation)
 
-Unsorted
-
-* [Refinitiv](https://www.refinitiv.com/en)
-* [Bloomberg](https://www.bloomberg.com/professional/)
 
 Forex
 
-* [Currencylayer](https://currencylayer.com/)
+* [currencylayer API | Free, Reliable Currency Converter API](https://currencylayer.com/)
+* [Market Data Solutions | Xignite](https://www.xignite.com/)
+* [Currency Converter API & Exchange Rate API | XE](https://www.xe.com/xecurrencydata/)
+* [Introduction](https://developer.oanda.com/rest-live-v20/introduction/)
+* [Currency Converter API - Web Services for Currency Conversion Free or Premium](https://www.currencyconverterapi.com/)
+* [Exchange Rates API](https://exchangeratesapi.io/)
+* [Open Exchange Rates](https://openexchangerates.org/)
+* [Foreign exchange rates and currency conversion API](https://fixer.io/)
+* [Foreign exchange rates and currency conversion JSON API](https://fcsapi.com/)
