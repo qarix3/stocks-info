@@ -128,28 +128,28 @@ Fundamental/Market Data
 * [Free Stock API and Financial Statements API - FMP API](https://financialmodelingprep.com/developer/docs/)
 * [Financial Technology, Data, and Expertise | Refinitiv](https://www.refinitiv.com/en)
 * [Bloomberg Professional Services | Bloomberg Finance L.P.](https://www.bloomberg.com/professional/)
+* [SimFin](https://github.com/SimFin)
   
 Broker API
 
-- [SAXO Bank](https://www.developer.saxo/openapi/learn)
-- [Interactive Broker](https://www.interactivebrokers.com/en/index.php?f=14193)
-- [Capital.com](https://capital.com/trading/platform/)
-- [Tradier](https://tradier.com/products/market-data-api)
+* [SAXO Bank](https://www.developer.saxo/openapi/learn)
+* [Interactive Broker](https://www.interactivebrokers.com/en/index.php?f=14193)
+* [Capital.com](https://capital.com/trading/platform/)
+* [Tradier](https://tradier.com/products/market-data-api)
 
 Economic Data
 
-- [Quantdl](https://www.quandl.com/search)
-- [DataHub.io](https://datahub.io/search)
+* [Quantdl](https://www.quandl.com/search)
+* [DataHub.io](https://datahub.io/search)
 
 Economic Calendar
 
-- [Econday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
+* [Econday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
 
 News
 
-- [News API](https://newsapi.org/docs)
-- [Media Stack](https://mediastack.com/documentation)
-
+* [News API](https://newsapi.org/docs)
+* [Media Stack](https://mediastack.com/documentation)
 
 Forex
 
