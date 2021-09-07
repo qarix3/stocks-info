@@ -10,7 +10,6 @@
 | MERCURY SECURITIES  ||||||
 | RAKUTEN TRADE       ||||||
 | RHB INVEST          ||||||
-| UOBKAYHIAN          ||||||
 
 BursaStation
 
