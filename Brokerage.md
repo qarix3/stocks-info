@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Broker
 
 | Broker              | Cash Upfront  | Minimum (RM) |  < RM100k |  > RM100K | Intraday |
@@ -12,8 +13,21 @@
 | MERCURY SECURITIES  ||||||
 | RAKUTEN TRADE       ||||||
 | RHB INVEST          ||||||
+=======
+| Broker              | Cash Upfront | Minimum (RM) | < RM100k | > RM100K | Intraday |
+|---------------------|--------------|--------------|----------|----------|----------|
+| AFFIN HWANG CAPITAL | -            | 28           | 0.7      | 0.7      | 0.15     |
+| AMEQUITIES          | -            | 28           | 0.4      | O.2      | 0.15     |
+| JF APEX             | -            | 28           |          |          |          |
+| HONG LEONG BANK     |              | 8            |          |          | 0.1      |
+| MPLUS ONLINE SILVER |              | 8            |          |          |          |
+| MPLUS ONLINE GOLD   |              |              |          |          |          |
+| MAYBANK             | -            | 8            |          |          | 0.15     |
+| MERCURY SECURITIES  |              |              |          |          |          |
+| RAKUTEN TRADE       |              |              |          |          |          |
+| RHB INVEST          |              |              |          |          |          |
+>>>>>>> 65cfb35732732e3b6b8eba8670ef9acd255ba005
 
-BursaStation
 
 [Historical Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=1&datetime=yyyymmdd)  
 [Intraday Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=2&datetime=yyyymmdd)  
