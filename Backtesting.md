@@ -1,0 +1,19 @@
+| Repository Name                 | Link                                                                                                          | Last Update | Support    | Portfolio Optimization |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------|-------------|------------|------------------------|
+| bt                              | [pmorissette/bt](https://github.com/pmorissette/bt)                                                           | May 16 2021 | Yes        |                        |
+| backtrader                      | [mementum/backtrader](https://github.com/mementum/backtrader)                                                 | Feb 12 2021 | Yes        |                        |
+| pandas-ta                       | [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)                                                 | May 27 2021 | Yes        |                        |
+| ta                              | [bukosabino/ta](https://github.com/bukosabino/ta)                                                             | Nov 30 2020 | Yes        |                        |
+| zvt                             | [zvtvz/zvt](https://github.com/zvtvz/zvt)                                                                     | May 25 2021 | Yes        |                        |
+| PyPortfolioOpt                  | [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)                               | May 18 2021 | Not Sure   |                        |
+| mlfinlab                        | [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab)                                   | May 07 2021 | Yes (Paid) |                        |
+| pyqstart                        | [abbass2/pyqstrat](https://github.com/abbass2/pyqstrat)                                                       | May 05 2021 | Yes        |                        |
+| pinkfish                        | [fja05680/pinkfish](https://github.com/fja05680/pinkfish)                                                     | May 19 2021 | Yes        |                        |
+| backtesting.py                  | [kernc/backtesting.py](https://github.com/kernc/backtesting.py)                                               | Apr 30 2021 | Yes        |                        |
+| quantstats                      | [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)                                             | May 05 2021 | Maybe      |                        |
+| algorithmic-trading-with-python | [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) | Book        | Book       |                        |
+| machine-learning-for-trading    | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)   | Book        | Book       |                        |
+| deepdow                         | [jankrepl/deepdow](https://github.com/jankrepl/deepdow)                                                       | Feb 17 2021 | Yes        |                        |
+| qlib                            | [microsoft/qlib](https://github.com/microsoft/qlib)                                                           | May 26 2021 | Yes        |                        |
+| Alphapy                         | [ScottfreeLLC/AlphaPy](https://github.com/ScottfreeLLC/AlphaPy)                                               | Feb 09 2021 |            |                        |
+| Yes FinRL                       | [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL)                                 | May 05 2021 | Yes        |                        |
