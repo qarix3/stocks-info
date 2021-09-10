@@ -1,3 +1,5 @@
+# Broker
+
 | Broker              | Cash Upfront  | Minimum (RM) |  < RM100k |  > RM100K | Intraday |
 |---------------------|---------------|--------------|-----------|-----------|----------|
 | AFFIN HWANG CAPITAL | -             | 28           | 0.7       | 0.7       | 0.15     |
@@ -22,7 +24,9 @@ BursaStation
 [Fact Sheet](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)   
 
 ## Brokers
+
 ### Local News
+
 * [Bernama](https://bernama.com/en/business/index.php)
 * [The Star](https://www.thestar.com.my/business)
 * [The Edge Market](https://www.theedgemarkets.com/)
@@ -30,12 +34,14 @@ BursaStation
 * [New Straits Times](https://www.nst.com.my/business/home)
 
 ### Local Broker
+
 * [Maybank2u Online Stock](http://ost.maybank2u.com.my/)
 * [RHB TradeSmart](https://www.rhbtradesmart.com/)
 * [KenTrade](https://www.kentrade.com.my/)
 * [M+Online](https://www.mplusonline.com.my/)
 
 ### Related Sites
+
 * [Bursa Malaysia](https://www.bursamalaysia.com/)
 * [Bursa Anywhere](https://www.bursamarketplace.com/anywhere/)
 * [Bursa Marketplace](https://www.bursamarketplace.com/)
@@ -43,11 +49,14 @@ BursaStation
 * [Securiti Malaysia](https://www.sc.com.my/bm/laman-utama)
 
 ### Application
+
 **Desktop**
+
 * [Bursa Station](https://bursastation.com)
 * [ShareInvestor](https://www.shareinvestor.com/)
 
 **Mobile Application**
+
 - [Bursa Anywhere](https://play.google.com/store/apps/details?id=com.bursamalaysia.eCDS&hl=en&gl=US)
 - [BursaMKTPLC](https://play.google.com/store/apps/details?id=com.app.bursa.market.place&hl=en&gl=US)
 - [MySaham2u](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mysaham2u&hl=en&gl=US)
@@ -56,16 +65,19 @@ BursaStation
 - [Malaysia Stock Calculator](https://play.google.com/store/apps/details?id=com.han.mystock&hl=en&gl=US)
 
 ### Stock Screener
+
 * [i3investor](https://klse.i3investor.com/index.jsp)
 * [KLSE Screener](https://www.klsescreener.com/v2/)
 * [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
 * [Investing Malaysia](https://investingmalaysia.com/)
 
 #### ETF
+
 [BNM](https://www.bnm.gov.my/)   
 [MYASB](https://www.myasnb.com.my/) 
 
 ## Trading Tools
+
 * [Corporate Report](https://github.com/firmai/interactive-corporate-report)
 * Gann Support and Resistance
 * Pivot Point

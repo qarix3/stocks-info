@@ -1,4 +1,4 @@
-# API
+# Market Data API
 
 ## Yahoo! Finance
 
@@ -35,6 +35,11 @@
     * [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis)
     * [fmp_python](https://github.com/ikbale/fmp_python)
     * [fmpsdk](https://github.com/daxm/fmpsdk)
+
+## Forex
+
+    * [OANDA](https://github.com/hootnot/oanda-api-v20)
+    * [IQ Option](https://github.com/Lu-Yi-Hsun/iqoptionapi)
 
 ## Multi
 
