@@ -35,15 +35,15 @@
 * [Ortex](https://www.ortex.com/)
 * [RISKO](http://www.risk-o.com/)
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
-* [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks
+* [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks.
 * [Slickcharts](https://www.slickcharts.com/)
 * [Stock.Osfvad](http://stock.osfvad.com/)
 * [StockRover](https://www.stockrover.com/)
 * [Stockbit](https://my.stockbit.com/)
 * [Tiingo](https://www.tiingo.com/)
-* [Ziggma](https://ziggma.com/) - Ziggma is portfolio and risk management solution for the private investor.
+* [Ziggma](https://ziggma.com/) - Ziggma is a portfolio and risk management solution for the private investor.
 * [acorns](https://www.acorns.com/invest/)
-* [gurufocus](https://www.gurufocus.com/screener?name=Full%20Stock%20List&id=42619)
+* [gurufocus](https://www.gurufocus.com/screener)
   
 ## Charting
 
