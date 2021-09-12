@@ -70,8 +70,8 @@
 
 ### ETF
 
-[BNM](https://www.bnm.gov.my/)   
-[MYASB](https://www.myasnb.com.my/) 
+[BNM](https://www.bnm.gov.my/)  
+[MYASB](https://www.myasnb.com.my/)  
 
 ## Trading Tools
 

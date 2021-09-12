@@ -1,6 +1,6 @@
 # Stocks Information
 
- > Collections of website that provides stocks information for future use.
+ > Collections of websites that provides stocks information for future use.
 
 ## Market News
 
@@ -27,24 +27,24 @@
 
 ## Portfolio Builder
 
-* [Ziggma](https://ziggma.com/) - Ziggma is portfolio and risk management solution for the private investor.
+* [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
+* [Docoh.com](https://www.docoh.com/)
 * [Edge|Yewno](https://edge.yewno.com/)
 * [Koyfin](https://www.koyfin.com/data-coverage/stocks/)
-* [Tiingo](https://www.tiingo.com/)
-* [Slickcharts](https://www.slickcharts.com/)
 * [Macroaxis](https://www.macroaxis.com/)
-* [acorns](https://www.acorns.com/invest/)
+* [Ortex](https://www.ortex.com/)
+* [RISKO](http://www.risk-o.com/)
 * [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
 * [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks
-* [gurufocus](https://www.gurufocus.com/screener?name=Full%20Stock%20List&id=42619)
-* [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
-* [RISKO](http://www.risk-o.com/)
-* [Docoh.com](https://www.docoh.com/)
-* [Stockbit](https://my.stockbit.com/)
-* [Ortex](https://www.ortex.com/)
+* [Slickcharts](https://www.slickcharts.com/)
 * [Stock.Osfvad](http://stock.osfvad.com/)
 * [StockRover](https://www.stockrover.com/)
-
+* [Stockbit](https://my.stockbit.com/)
+* [Tiingo](https://www.tiingo.com/)
+* [Ziggma](https://ziggma.com/) - Ziggma is portfolio and risk management solution for the private investor.
+* [acorns](https://www.acorns.com/invest/)
+* [gurufocus](https://www.gurufocus.com/screener?name=Full%20Stock%20List&id=42619)
+  
 ## Charting
 
 * [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
@@ -69,32 +69,32 @@
 
 ## Economics Data
 
-* [IMF Data](imf.org/en/Data)
 * [Bureau Economic Agencies](https://www.bea.gov/)
-* [Organisation for Economic Co-operation and Development](https://data.oecd.org/)
-* [World Bank](https://data.worldbank.org/)
+* [CEIC](https://www.ceicdata.com/en)
+* [CSIMarket](https://csimarket.com/)
+* [EMIS](https://www.emis.com/)
+* [IMF Data](imf.org/en/Data)
+* [Macrotrends](https://www.macrotrends.net/)
+* [OECD | Data](https://data.oecd.org/)
 * [StLouis Fed](https://fred.stlouisfed.org/release?rid=239)
 * [Statista](https://www.statista.com/)
-* [Macrotrends](https://www.macrotrends.net/)
-* [multpl](https://www.multpl.com/cpi)
-* [CSIMarket](https://csimarket.com/)
-* [CEIC](https://www.ceicdata.com/en)
 * [Tradingeconomics](https://tradingeconomics.com/indicators)
-* [EMIS](https://www.emis.com/)
+* [World Bank](https://data.worldbank.org/)
+* [multpl](https://www.multpl.com/cpi)
 
 ## Community
 
-* [Stocktwits](https://stocktwits.com/) -  Social Network for investors and traders
+* [Stocktwits](https://stocktwits.com/) - Social Network for investors and traders
 
 ## Unsorted
 
-* [dMKTquant](https://github.com/dMLTquant/awesome_investing)
-* [Financial Juice](https://www.financialjuice.com/home) 
-* [Long Term Trends](https://www.longtermtrends.net/) 
-* [Riskalyze](https://www.riskalyze.com/advisors)  
 * [Fidessa](https://iongroup.com/ion-markets/eq/fidessa/)
+* [Financial Juice](https://www.financialjuice.com/home)
+* [Long Term Trends](https://www.longtermtrends.net/)
 * [Morningstar](https://www.morningstar.com/products)
+* [Riskalyze](https://www.riskalyze.com/advisors)
 * [StreetInsider](https://www.streetinsider.com/)
+* [dMKTquant](https://github.com/dMLTquant/awesome_investing)
 
 ## Analytics
 
@@ -116,19 +116,19 @@
 
 Fundamental/Market Data
 
-* [Getting Started - Polygon.io](https://polygon.io/docs/getting-started)
-* [API Documentation - marketstack](https://marketstack.com/documentation)
-* [Getting Started - APIv2 Documentation | Intrinio](https://docs.intrinio.com/documentation/api_v2/getting_started)
-* [API Documentation | Finnhub - Free APIs for realtime stock, forex, and cryptocurrency. Company fundamentals, economic data, and alternative data.](https://finnhub.io/docs/api)
-* [Documentation | Alpaca](https://alpaca.markets/docs/)
-* [API Documentation - Twelve Data](https://twelvedata.com/docs#getting-started)
-* [Core Data Catalog | IEX Cloud](https://iexcloud.io/core-data-catalog/)
-* [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)
+* [Alpaca](https://alpaca.markets/docs/)
+* [Alpha Vantage](https://www.alphavantage.co/documentation/)
+* [Bloomberg Finance L.P.](https://www.bloomberg.com/professional/)
+* [FMP API](https://financialmodelingprep.com/developer/docs/)
+* [Finnhub](https://finnhub.io/docs/api) - Free APIs for real-time stock, forex, and cryptocurrency. Company fundamentals, economic data, and alternative data.
 * [Historical Prices and Fundamental Financial Data API](https://eodhistoricaldata.com/)
-* [Free Stock API and Financial Statements API - FMP API](https://financialmodelingprep.com/developer/docs/)
-* [Financial Technology, Data, and Expertise | Refinitiv](https://www.refinitiv.com/en)
-* [Bloomberg Professional Services | Bloomberg Finance L.P.](https://www.bloomberg.com/professional/)
+* [IEX Cloud](https://iexcloud.io/core-data-catalog/)
+* [Intrinio](https://docs.intrinio.com/documentation/api_v2/getting_started)
+* [Polygon.io](https://polygon.io/docs/getting-started)
+* [Refinitiv](https://www.refinitiv.com/en)
 * [SimFin](https://github.com/SimFin)
+* [Twelve Data](https://twelvedata.com/docs#getting-started)
+* [marketstack](https://marketstack.com/documentation)
   
 Broker API
 
@@ -153,12 +153,13 @@ News
 
 Forex
 
-* [currencylayer API | Free, Reliable Currency Converter API](https://currencylayer.com/)
-* [Market Data Solutions | Xignite](https://www.xignite.com/)
-* [Currency Converter API & Exchange Rate API | XE](https://www.xe.com/xecurrencydata/)
-* [Introduction](https://developer.oanda.com/rest-live-v20/introduction/)
-* [Currency Converter API - Web Services for Currency Conversion Free or Premium](https://www.currencyconverterapi.com/)
+* [Currency Converter API](https://www.currencyconverterapi.com/)
 * [Exchange Rates API](https://exchangeratesapi.io/)
+* [FCSAPI.com](https://fcsapi.com/)
+* [Fixer](https://fixer.io/)
+* [OANDA](https://developer.oanda.com/rest-live-v20/introduction/)
 * [Open Exchange Rates](https://openexchangerates.org/)
-* [Foreign exchange rates and currency conversion API](https://fixer.io/)
-* [Foreign exchange rates and currency conversion JSON API](https://fcsapi.com/)
+* [XE.com](https://www.xe.com/xecurrencydata/)
+* [Xignite](https://www.xignite.com/)
+* [currencylayer](https://currencylayer.com/)
+  
