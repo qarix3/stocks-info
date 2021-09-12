@@ -4,18 +4,18 @@
 
 ## Market News
 
-* [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis.
-* [Thomson Reuters](https://www.reuters.com/markets)
-* [Financial Times](https://www.ft.com/)
-* [The Economist](https://www.economist.com/)
-* [Barrons](https://www.barrons.com/)
-* [CNBC](https://www.cnbc.com/markets/)
-* [Bezinga](https://www.benzinga.com/markets)
-* [Wall Street Journal](https://www.wsj.com/news/markets)
-* [Forbes](https://www.forbes.com/)
-* [MarketWatch](https://www.marketwatch.com/investing/stocks)
 * [Barchart](https://www.barchart.com/)
+* [Barrons](https://www.barrons.com/)
+* [Bezinga](https://www.benzinga.com/markets)
+* [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis.
+* [CNBC](https://www.cnbc.com/markets/)
+* [Financial Times](https://www.ft.com/)
+* [Forbes](https://www.forbes.com/)
 * [Investors.com](https://newhome.investors.com/)
+* [MarketWatch](https://www.marketwatch.com/investing/stocks)
+* [The Economist](https://www.economist.com/)
+* [Thomson Reuters](https://www.reuters.com/markets)
+* [Wall Street Journal](https://www.wsj.com/news/markets)
 
 ## Market Insight & Analytics
 
