@@ -1,21 +1,8 @@
-<<<<<<< HEAD
-# Broker
 
-| Broker              | Cash Upfront  | Minimum (RM) |  < RM100k |  > RM100K | Intraday |
-|---------------------|---------------|--------------|-----------|-----------|----------|
-| AFFIN HWANG CAPITAL | -             | 28           | 0.7       | 0.7       | 0.15     |
-| AMEQUITIES          | -             | 28           | 0.4       | O.2       | 0.15     |
-| JF APEX             | -             | 28           |           |           |          |
-| HONG LEONG BANK     |               | 8            |           |           | 0.1      |
-| MPLUS ONLINE SILVER |               | 8            |           |           |          |
-| MPLUS ONLINE GOLD   |               |              |           |           |          |
-| MAYBANK             | -             | 8            |           |           | 0.15     |
-| MERCURY SECURITIES  ||||||
-| RAKUTEN TRADE       ||||||
-| RHB INVEST          ||||||
-=======
+# Brokerage
+
 | Broker              | Cash Upfront | Minimum (RM) | < RM100k | > RM100K | Intraday |
-|---------------------|--------------|--------------|----------|----------|----------|
+| ------------------- | ------------ | ------------ | -------- | -------- | -------- |
 | AFFIN HWANG CAPITAL | -            | 28           | 0.7      | 0.7      | 0.15     |
 | AMEQUITIES          | -            | 28           | 0.4      | O.2      | 0.15     |
 | JF APEX             | -            | 28           |          |          |          |
@@ -26,18 +13,16 @@
 | MERCURY SECURITIES  |              |              |          |          |          |
 | RAKUTEN TRADE       |              |              |          |          |          |
 | RHB INVEST          |              |              |          |          |          |
->>>>>>> 65cfb35732732e3b6b8eba8670ef9acd255ba005
 
+## News
 
-[Historical Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=1&datetime=yyyymmdd)  
-[Intraday Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=2&datetime=yyyymmdd)  
-[Financial](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)   
 [Action News](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
-[Insider Main](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
+[Fact Sheet](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
+[Financial](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
+[Historical Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=1&datetime=yyyymmdd)  
 [Insider All](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
-[Fact Sheet](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)   
-
-## Brokers
+[Insider Main](http://station.bursastation.com/bursastation_my_tools.pl?action=insider&id=0010)  
+[Intraday Price](http://chart.bursastation.com/station/station_chart_quotes.pl?id=3026.MY&mode=2&datetime=yyyymmdd)  
 
 ### Local News
 
@@ -47,7 +32,7 @@
 * [Malaysia Chronicle](https://www.malaysia-chronicle.com/?p=203260)
 * [New Straits Times](https://www.nst.com.my/business/home)
 
-### Local Broker
+## Local Broker
 
 * [Maybank2u Online Stock](http://ost.maybank2u.com.my/)
 * [RHB TradeSmart](https://www.rhbtradesmart.com/)
@@ -62,8 +47,6 @@
 * [MITI Saham Online](https://sahamonline.miti.gov.my/)  
 * [Securiti Malaysia](https://www.sc.com.my/bm/laman-utama)
 
-### Application
-
 **Desktop**
 
 * [Bursa Station](https://bursastation.com)
@@ -71,21 +54,21 @@
 
 **Mobile Application**
 
-- [Bursa Anywhere](https://play.google.com/store/apps/details?id=com.bursamalaysia.eCDS&hl=en&gl=US)
-- [BursaMKTPLC](https://play.google.com/store/apps/details?id=com.app.bursa.market.place&hl=en&gl=US)
-- [MySaham2u](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mysaham2u&hl=en&gl=US)
-- [LaburSaham](https://play.google.com/store/apps/details?id=com.asriahmad.labursaham&hl=en&gl=US)
-- [StockHunter](https://play.google.com/store/apps/details?id=stockhunter.klse.my&hl=en&gl=US)
-- [Malaysia Stock Calculator](https://play.google.com/store/apps/details?id=com.han.mystock&hl=en&gl=US)
+* [Bursa Anywhere](https://play.google.com/store/apps/details?id=com.bursamalaysia.eCDS&hl=en&gl=US)
+* [BursaMKTPLC](https://play.google.com/store/apps/details?id=com.app.bursa.market.place&hl=en&gl=US)
+* [LaburSaham](https://play.google.com/store/apps/details?id=com.asriahmad.labursaham&hl=en&gl=US)
+* [Malaysia Stock Calculator](https://play.google.com/store/apps/details?id=com.han.mystock&hl=en&gl=US)
+* [MySaham2u](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mysaham2u&hl=en&gl=US)
+* [StockHunter](https://play.google.com/store/apps/details?id=stockhunter.klse.my&hl=en&gl=US)
 
-### Stock Screener
+## Stock Screener
 
 * [i3investor](https://klse.i3investor.com/index.jsp)
 * [KLSE Screener](https://www.klsescreener.com/v2/)
 * [Malaysia Stock Biz](https://www.malaysiastock.biz/Market-Watch.aspx)
 * [Investing Malaysia](https://investingmalaysia.com/)
 
-#### ETF
+### ETF
 
 [BNM](https://www.bnm.gov.my/)   
 [MYASB](https://www.myasnb.com.my/) 
