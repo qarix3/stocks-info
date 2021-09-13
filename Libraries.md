@@ -51,9 +51,11 @@
 
 ## Strategies
 
-| Repository Name     | Link                                                          | Last Update                                                              | Strategy        |
-| ------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------- |
-| alvarobartt/trendet | [alvarobartt/trendet](https://github.com/alvarobartt/trendet) | ![update](https://img.shields.io/github/last-commit/alvarobartt/trendet) | Trend-following |
+| Repository Name             | Link                                                                          | Last Update                                                                      | Strategy        |
+| --------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------- |
+| alvarobartt/trendet         | [alvarobartt/trendet](https://github.com/alvarobartt/trendet)                 | ![update](https://img.shields.io/github/last-commit/alvarobartt/trendet)         | Trend-following |
+| VincentTatan/ValueInvesting | [VincentTatan/ValueInvesting](https://github.com/VincentTatan/ValueInvesting) | ![update](https://img.shields.io/github/last-commit/VincentTatan/ValueInvesting) | Value Investing |
+| astro30/valinvest           | [astro30/valinvest](https://github.com/astro30/valinvest)                     | ![update](https://img.shields.io/github/last-commit/astro30/valinvest)           | Value Investing |
 
 ## Quantitative Finance
 
