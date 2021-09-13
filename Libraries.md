@@ -51,11 +51,12 @@
 
 ## Strategies
 
-| Repository Name             | Link                                                                          | Last Update                                                                      | Strategy        |
-| --------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------- |
-| trendet         | [alvarobartt/trendet](https://github.com/alvarobartt/trendet)                 | ![update](https://img.shields.io/github/last-commit/alvarobartt/trendet)         | Trend-following |
-| ValueInvesting | [VincentTatan/ValueInvesting](https://github.com/VincentTatan/ValueInvesting) | ![update](https://img.shields.io/github/last-commit/VincentTatan/ValueInvesting) | Value Investing |
-| valinvest           | [astro30/valinvest](https://github.com/astro30/valinvest)                     | ![update](https://img.shields.io/github/last-commit/astro30/valinvest)           | Value Investing |
+| Repository Name | Link                                                                                                    | Last Update                                                                      | Strategy                |
+| --------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------- |
+| trendet         | [alvarobartt/trendet](https://github.com/alvarobartt/trendet)                                           | ![update](https://img.shields.io/github/last-commit/alvarobartt/trendet)         | Trend-following         |
+| ValueInvesting  | [VincentTatan/ValueInvesting](https://github.com/VincentTatan/ValueInvesting)                           | ![update](https://img.shields.io/github/last-commit/VincentTatan/ValueInvesting) | Value Investing         |
+| valinvest       | [astro30/valinvest](https://github.com/astro30/valinvest)                                               | ![update](https://img.shields.io/github/last-commit/astro30/valinvest)           | Value Investing         |
+| stocker         | [WillKoehrsen/Data-Analysis/stocker](https://github.com/WillKoehrsen/Data-Analysis/tree/master/stocker) | ![update](https://img.shields.io/github/last-commit/WillKoehrsen/Data-Analysis)  | Time-Series Forecasting |
 
 ## Quantitative Finance
 
