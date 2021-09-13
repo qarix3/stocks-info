@@ -11,16 +11,12 @@
 | talipp          | [nardew/talipp](https://github.com/nardew/talipp)                       | ![update](https://img.shields.io/github/last-commit/nardew/talipp)            | Yes     |     |
 | technical       | [freqtrade/technical](https://github.com/freqtrade/technical)           | ![update](https://img.shields.io/github/last-commit/freqtrade/technical)      |         |     |
 
----
-
 ## Portfolio Optimization
 
 | Repository Name | Link                                                                            | Last Update                                                                       | Support  |     |
 | --------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------- | --- |
 | PyPortfolioOpt  | [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) | ![update](https://img.shields.io/github/last-commit/robertmartin8/PyPortfolioOpt) | Not Sure |     |
 | deepdow         | [jankrepl/deepdow](https://github.com/jankrepl/deepdow)                         | ![update](https://img.shields.io/github/last-commit/jankrepl/deepdow)             | Yes      |     |
-
----
 
 ## Backtesting Library
 
@@ -34,7 +30,6 @@
 | pyqstart        | [abbass2/pyqstrat](https://github.com/abbass2/pyqstrat)           | ![update](https://img.shields.io/github/last-commit/abbass2/pyqstrat)      | Yes     |     |
 | zvt             | [zvtvz/zvt](https://github.com/zvtvz/zvt)                         | ![update](https://img.shields.io/github/last-commit/zvtvz/zvt)             | Yes     |     |
 
----
 
 ## Machine Learning
 
@@ -45,11 +40,17 @@
 | mlfinlab        | [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab)   | ![update](https://img.shields.io/github/last-commit/hudson-and-thames/mlfinlab)  | Yes (Paid) |     |
 | qlib            | [microsoft/qlib](https://github.com/microsoft/qlib)                           | ![update](https://img.shields.io/github/last-commit/microsoft/qlib)              | Yes        |     |
 
----
-
 ## Books/Tutorial Reference
 
 | Repository Name                 | Link                                                                                                          | Last Update                                                                                      | Source | Publisher |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ | --------- |
 | algorithmic-trading-with-python | [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) | ![update](https://img.shields.io/github/last-commit/chrisconlan/algorithmic-trading-with-python) | Book   |           |
 | machine-learning-for-trading    | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)   | ![update](https://img.shields.io/github/last-commit/stefan-jansen/machine-learning-for-trading)  | Book   |           |
+
+## Quantitative Finance
+
+| Repository Name | Link                                              | Last Update                                                             | Language |
+| --------------- | ------------------------------------------------- | ----------------------------------------------------------------------- | -------- |
+| QuantLib        | [QuantLib](https://github.com/lballabio/QuantLib) | ![update](https://img.shields.io/github/last-commit/lballabio/QuantLib) | C++      |
+| pyql            | [pyql](https://github.com/enthought/pyql)         | ![update](https://img.shields.io/github/last-commit/enthought/pyql)     | Cython   |
+| ffn             | [ffn](https://github.com/pmorissette/ffn)         | ![update](https://img.shields.io/github/last-commit/pmorissette/ffn)    | Python   |
