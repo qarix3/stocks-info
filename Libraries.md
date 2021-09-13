@@ -2,15 +2,15 @@
 
 ## Technical Analysis Library
 
-| Repository Name  | Link                                                                            | Last Update                                                                        | Support |     |
-| ---------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------- | --- |
+| Repository Name  | Link                                                                            | Last Update                                                                       | Support |     |
+| ---------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------- | --- |
 | bta-lib-reloaded | [drhighliner/bta-lib-reloaded](https://github.com/drhighliner/bta-lib-reloaded) | ![update](https://img.shields.io/github/last-commit/drhighliner/bta-lib-reloaded) |         |     |
-| pandas-ta        | [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)                   | ![update](https://img.shields.io/github/last-commit/twopirllc/pandas-ta)           | Yes     |     |
-| pyti             | [kylejusticemagnuson/pyti](https://github.com/kylejusticemagnuson/pyti)         | ![update](https://img.shields.io/github/last-commit/kylejusticemagnuson/pyti)      |         |     |
-| ta               | [bukosabino/ta](https://github.com/bukosabino/ta)                               | ![update](https://img.shields.io/github/last-commit/bukosabino/ta)                 | Yes     |     |
-| ta-lib           | [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib)                               | ![update](https://img.shields.io/github/last-commit/mrjbq7/ta-lib)                 | Yes     |     |
-| talipp           | [nardew/talipp](https://github.com/nardew/talipp)                               | ![update](https://img.shields.io/github/last-commit/nardew/talipp)                 | Yes     |     |
-| technical        | [freqtrade/technical](https://github.com/freqtrade/technical)                   | ![update](https://img.shields.io/github/last-commit/freqtrade/technical)           |         |     |
+| pandas-ta        | [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)                   | ![update](https://img.shields.io/github/last-commit/twopirllc/pandas-ta)          | Yes     |     |
+| pyti             | [kylejusticemagnuson/pyti](https://github.com/kylejusticemagnuson/pyti)         | ![update](https://img.shields.io/github/last-commit/kylejusticemagnuson/pyti)     |         |     |
+| ta               | [bukosabino/ta](https://github.com/bukosabino/ta)                               | ![update](https://img.shields.io/github/last-commit/bukosabino/ta)                | Yes     |     |
+| ta-lib           | [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib)                               | ![update](https://img.shields.io/github/last-commit/mrjbq7/ta-lib)                | Yes     |     |
+| talipp           | [nardew/talipp](https://github.com/nardew/talipp)                               | ![update](https://img.shields.io/github/last-commit/nardew/talipp)                | Yes     |     |
+| technical        | [freqtrade/technical](https://github.com/freqtrade/technical)                   | ![update](https://img.shields.io/github/last-commit/freqtrade/technical)          |         |     |
 
 ## Portfolio Optimization
 
@@ -21,15 +21,16 @@
 
 ## Backtesting Library
 
-| Repository Name | Link                                                              | Last Update                                                                | Support |     |
-| --------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------- | ------- | --- |
-| backtesting.py  | [kernc/backtesting.py](https://github.com/kernc/backtesting.py)   | ![update](https://img.shields.io/github/last-commit/kernc/backtesting.py)  | Yes     |     |
-| backtrader      | [mementum/backtrader](https://github.com/mementum/backtrader)     | ![update](https://img.shields.io/github/last-commit/mementum/backtrader)   | Yes     |     |
-| bt              | [pmorissette/bt](https://github.com/pmorissette/bt)               | ![update](https://img.shields.io/github/last-commit/pmorissette/bt)        | Yes     |     |
-| quantstats      | [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) | ![update](https://img.shields.io/github/last-commit/ranaroussi/quantstats) | Maybe   |     |
-| pinkfish        | [fja05680/pinkfish](https://github.com/fja05680/pinkfish)         | ![update](https://img.shields.io/github/last-commit/fja05680/pinkfish)     | Yes     |     |
-| pyqstart        | [abbass2/pyqstrat](https://github.com/abbass2/pyqstrat)           | ![update](https://img.shields.io/github/last-commit/abbass2/pyqstrat)      | Yes     |     |
-| zvt             | [zvtvz/zvt](https://github.com/zvtvz/zvt)                         | ![update](https://img.shields.io/github/last-commit/zvtvz/zvt)             | Yes     |     |
+| Repository Name | Link                                                                | Last Update                                                                 | Support |     |
+| --------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------- | --- |
+| backtesting.py  | [kernc/backtesting.py](https://github.com/kernc/backtesting.py)     | ![update](https://img.shields.io/github/last-commit/kernc/backtesting.py)   | Yes     |     |
+| backtrader      | [mementum/backtrader](https://github.com/mementum/backtrader)       | ![update](https://img.shields.io/github/last-commit/mementum/backtrader)    | Yes     |     |
+| backtrader2     | [backtrader2/backtrader](https://github.com/backtrader2/backtrader) | ![update](https://img.shields.io/github/last-commit/backtrader2/backtrader) |         |     |
+| bt              | [pmorissette/bt](https://github.com/pmorissette/bt)                 | ![update](https://img.shields.io/github/last-commit/pmorissette/bt)         | Yes     |     |
+| quantstats      | [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)   | ![update](https://img.shields.io/github/last-commit/ranaroussi/quantstats)  | Maybe   |     |
+| pinkfish        | [fja05680/pinkfish](https://github.com/fja05680/pinkfish)           | ![update](https://img.shields.io/github/last-commit/fja05680/pinkfish)      | Yes     |     |
+| pyqstart        | [abbass2/pyqstrat](https://github.com/abbass2/pyqstrat)             | ![update](https://img.shields.io/github/last-commit/abbass2/pyqstrat)       | Yes     |     |
+| zvt             | [zvtvz/zvt](https://github.com/zvtvz/zvt)                           | ![update](https://img.shields.io/github/last-commit/zvtvz/zvt)              | Yes     |     |
 
 
 ## Machine Learning
@@ -47,6 +48,12 @@
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ | --------- |
 | algorithmic-trading-with-python | [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) | ![update](https://img.shields.io/github/last-commit/chrisconlan/algorithmic-trading-with-python) | Book   |           |
 | machine-learning-for-trading    | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)   | ![update](https://img.shields.io/github/last-commit/stefan-jansen/machine-learning-for-trading)  | Book   |           |
+
+## Strategies
+
+| Repository Name     | Link                                                          | Last Update                                                              | Strategy        |
+| ------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------- |
+| alvarobartt/trendet | [alvarobartt/trendet](https://github.com/alvarobartt/trendet) | ![update](https://img.shields.io/github/last-commit/alvarobartt/trendet) | Trend-following |
 
 ## Quantitative Finance
 
