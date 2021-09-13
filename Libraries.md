@@ -2,14 +2,15 @@
 
 ## Technical Analysis Library
 
-| Repository Name | Link                                                                    | Last Update                                                                   | Support |     |
-| --------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------- | --- |
-| pandas-ta       | [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)           | ![update](https://img.shields.io/github/last-commit/twopirllc/pandas-ta)      | Yes     |     |
-| pyti            | [kylejusticemagnuson/pyti](https://github.com/kylejusticemagnuson/pyti) | ![update](https://img.shields.io/github/last-commit/kylejusticemagnuson/pyti) |         |     |
-| ta              | [bukosabino/ta](https://github.com/bukosabino/ta)                       | ![update](https://img.shields.io/github/last-commit/bukosabino/ta)            | Yes     |     |
-| ta-lib          | [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib)                       | ![update](https://img.shields.io/github/last-commit/mrjbq7/ta-lib)            | Yes     |     |
-| talipp          | [nardew/talipp](https://github.com/nardew/talipp)                       | ![update](https://img.shields.io/github/last-commit/nardew/talipp)            | Yes     |     |
-| technical       | [freqtrade/technical](https://github.com/freqtrade/technical)           | ![update](https://img.shields.io/github/last-commit/freqtrade/technical)      |         |     |
+| Repository Name  | Link                                                                            | Last Update                                                                        | Support |     |
+| ---------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------- | --- |
+| bta-lib-reloaded | [drhighliner/bta-lib-reloaded](https://github.com/drhighliner/bta-lib-reloaded) | ![update](https://img.shields.io/github/last-commit//drhighliner/bta-lib-reloaded) |         |     |
+| pandas-ta        | [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)                   | ![update](https://img.shields.io/github/last-commit/twopirllc/pandas-ta)           | Yes     |     |
+| pyti             | [kylejusticemagnuson/pyti](https://github.com/kylejusticemagnuson/pyti)         | ![update](https://img.shields.io/github/last-commit/kylejusticemagnuson/pyti)      |         |     |
+| ta               | [bukosabino/ta](https://github.com/bukosabino/ta)                               | ![update](https://img.shields.io/github/last-commit/bukosabino/ta)                 | Yes     |     |
+| ta-lib           | [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib)                               | ![update](https://img.shields.io/github/last-commit/mrjbq7/ta-lib)                 | Yes     |     |
+| talipp           | [nardew/talipp](https://github.com/nardew/talipp)                               | ![update](https://img.shields.io/github/last-commit/nardew/talipp)                 | Yes     |     |
+| technical        | [freqtrade/technical](https://github.com/freqtrade/technical)                   | ![update](https://img.shields.io/github/last-commit/freqtrade/technical)           |         |     |
 
 ## Portfolio Optimization
 
