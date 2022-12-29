@@ -6,3 +6,6 @@
 .idea/modules.xml
 .idea/stocks-info.iml
 .idea/vcs.xml
+
+# VS Code
+.vscode/*

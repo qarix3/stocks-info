@@ -1,165 +1,141 @@
-# Stocks Information
+# Investment Insights
 
- > Collections of websites that provides stocks information for future use.
-
-## Market News
-
-* [Barchart](https://www.barchart.com/)
-* [Barrons](https://www.barrons.com/)
-* [Bezinga](https://www.benzinga.com/markets)
-* [Bloomberg](https://www.bloomberg.com/markets/stocks) - Bloomberg delivers business and markets news, data, analysis.
-* [CNBC](https://www.cnbc.com/markets/)
-* [Financial Times](https://www.ft.com/)
-* [Forbes](https://www.forbes.com/)
-* [Investors.com](https://newhome.investors.com/)
-* [MarketWatch](https://www.marketwatch.com/investing/stocks)
-* [The Economist](https://www.economist.com/)
-* [Thomson Reuters](https://www.reuters.com/markets)
-* [Wall Street Journal](https://www.wsj.com/news/markets)
-
-## Market Insight & Analytics
-
-* [Yahoo! Finance](https://finance.yahoo.com/) - It provides financial news, data and commentary including stock quotes, press releases, financial reports.
-* [Google Finance](https://www.google.com/finance) - Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics.
-* [MSN Money](https://www.msn.com/en-my/money) - Stock quotes, financial tools, news and analysis.
-* [Investing.com](https://www.investing.com/) - Investing.com offers free real time quotes, portfolio, streaming charts, financial news, live stock market data and more.
-* [finviz](https://finviz.com/) - Stock screener for investors and traders, financial visualizations.
-
-## Portfolio Builder
-
-* [Dataroma](https://www.dataroma.com/m/home.php) - Track stock picks and portfolios of legendary value investors such as Warren Buffett.
-* [Docoh.com](https://www.docoh.com/)
-* [Edge|Yewno](https://edge.yewno.com/)
-* [Koyfin](https://www.koyfin.com/data-coverage/stocks/)
-* [Macroaxis](https://www.macroaxis.com/)
-* [Ortex](https://www.ortex.com/)
-* [RISKO](http://www.risk-o.com/)
-* [SeekingAlpha](https://seekingalpha.com/screeners) - Seeking Alpha is a crowd-sourced content service for financial markets. Articles and research covers a broad range of stocks, asset classes, ETFs and investment strategies.
-* [Simplywall.st](https://simplywall.st) - For people loving charts and visual. Deep look into specific stocks.
-* [Slickcharts](https://www.slickcharts.com/)
-* [Stock.Osfvad](http://stock.osfvad.com/)
-* [StockRover](https://www.stockrover.com/)
-* [Stockbit](https://my.stockbit.com/)
-* [Tiingo](https://www.tiingo.com/)
-* [Ziggma](https://ziggma.com/) - Ziggma is a portfolio and risk management solution for the private investor.
-* [acorns](https://www.acorns.com/invest/)
-* [gurufocus](https://www.gurufocus.com/screener)
-  
-## Charting
-
-* [TradingView](https://www.tradingview.com/) - Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stock, Futures and Forex markets!
-* [Darqube](https://darqube.com/) - Darqube is a financial services company that provides innovative software solutions in trading analytics, automated trading, and secure messaging.
-* [StockChart](https://stockcharts.com/)
-
-## Learning Materials
-
-* [Fool.com](https://www.fool.com/)
-* [Stockopedia](https://www.stockopedia.com/)
-* [Investopedia](https://www.investopedia.com/)
-* [Investing Answer](https://investinganswers.com/)
-* [the balance](https://www.thebalance.com/)
-* [Finance Train](https://financetrain.com/)
-* [Trading Strategy Guide](https://tradingstrategyguides.com/)
-
-## Others
-
-* [Finbox](https://finbox.com/)
-* [StockCharts](https://stockcharts.com/)
-* [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
-
-## Economics Data
-
-* [Bureau Economic Agencies](https://www.bea.gov/)
-* [CEIC](https://www.ceicdata.com/en)
-* [CSIMarket](https://csimarket.com/)
-* [EMIS](https://www.emis.com/)
-* [IMF Data](imf.org/en/Data)
-* [Macrotrends](https://www.macrotrends.net/)
-* [OECD | Data](https://data.oecd.org/)
-* [StLouis Fed](https://fred.stlouisfed.org/release?rid=239)
-* [Statista](https://www.statista.com/)
-* [Tradingeconomics](https://tradingeconomics.com/indicators)
-* [World Bank](https://data.worldbank.org/)
-* [multpl](https://www.multpl.com/cpi)
-
-## Community
-
-* [Stocktwits](https://stocktwits.com/) - Social Network for investors and traders
-
-## Unsorted
-
-* [Fidessa](https://iongroup.com/ion-markets/eq/fidessa/)
-* [Financial Juice](https://www.financialjuice.com/home)
-* [Long Term Trends](https://www.longtermtrends.net/)
-* [Morningstar](https://www.morningstar.com/products)
-* [Riskalyze](https://www.riskalyze.com/advisors)
-* [StreetInsider](https://www.streetinsider.com/)
-* [dMKTquant](https://github.com/dMLTquant/awesome_investing)
-
-## Analytics
-
-* [MoodyAnalutics](https://www.moodysanalytics.com/)
-
-## Software/Web-based
-
-* [Bloomberg Terminal](https://www.bloomberg.com/terminal)
-* [Refinitive Eikon](https://eikon.thomsonreuters.com/index.html)
-* [Bezinga Pro](https://pro.benzinga.com/login/?gspk=&gsxid=07Fic7yj36KN)
-* [Money.net](https://www.money.net/)
-* [Y-Chart](https://ycharts.com/)
-
-## ETF
-
-* [ETF.com](https://www.etf.com/)
-
-## API Providers
-
-Fundamental/Market Data
-
-* [Alpaca](https://alpaca.markets/docs/)
-* [Alpha Vantage](https://www.alphavantage.co/documentation/)
-* [Bloomberg Finance L.P.](https://www.bloomberg.com/professional/)
-* [FMP API](https://financialmodelingprep.com/developer/docs/)
-* [Finnhub](https://finnhub.io/docs/api) - Free APIs for real-time stock, forex, and cryptocurrency. Company fundamentals, economic data, and alternative data.
-* [Historical Prices and Fundamental Financial Data API](https://eodhistoricaldata.com/)
-* [IEX Cloud](https://iexcloud.io/core-data-catalog/)
-* [Intrinio](https://docs.intrinio.com/documentation/api_v2/getting_started)
-* [Polygon.io](https://polygon.io/docs/getting-started)
-* [Refinitiv](https://www.refinitiv.com/en)
-* [SimFin](https://github.com/SimFin)
-* [Twelve Data](https://twelvedata.com/docs#getting-started)
-* [marketstack](https://marketstack.com/documentation)
-  
-Broker API
-
-* [SAXO Bank](https://www.developer.saxo/openapi/learn)
-* [Interactive Broker](https://www.interactivebrokers.com/en/index.php?f=14193)
-* [Capital.com](https://capital.com/trading/platform/)
-* [Tradier](https://tradier.com/products/market-data-api)
-
-Economic Data
-
-* [Quantdl](https://www.quandl.com/search)
-* [DataHub.io](https://datahub.io/search)
-
-Economic Calendar
-
-* [Econday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
-
-News
-
-* [News API](https://newsapi.org/docs)
-* [Media Stack](https://mediastack.com/documentation)
-
-Forex
-
-* [Currency Converter API](https://www.currencyconverterapi.com/)
-* [Exchange Rates API](https://exchangeratesapi.io/)
-* [FCSAPI.com](https://fcsapi.com/)
-* [Fixer](https://fixer.io/)
-* [OANDA](https://developer.oanda.com/rest-live-v20/introduction/)
-* [Open Exchange Rates](https://openexchangerates.org/)
-* [XE.com](https://www.xe.com/xecurrencydata/)
-* [Xignite](https://www.xignite.com/)
-* [currencylayer](https://currencylayer.com/)
-  
+- [Acorns](https://www.acorns.com/invest/)
+- [Betterment](https://www.betterment.com/)
+- [Alpaca AlgoTrading](https://alpaca.markets/algotrading)
+- [Alpaca Market API](https://alpaca.markets/docs/) 
+- [AlphaVantage API](https://www.alphavantage.co/documentation/)
+- [Awesome Investing](https://github.com/dMLTquant/awesome_investing)
+- [BEA](https://www.bea.gov/)
+- [BarChart](https://www.barchart.com/)
+- [Barrons](https://www.barrons.com/)
+- [Benzinga Pro](https://pro.benzinga.com)
+- [Bezinga](https://www.benzinga.com/markets)
+- [Bloomberg Markets](https://www.bloomberg.com/markets/stocks)
+- [Bloomberg Professional](https://www.bloomberg.com/professional/)
+- [Bloomberg Terminal](https://www.bloomberg.com/terminal)
+- [Bursa KLSE Ticker](http://stock.osfvad.com/)
+- [CEIC Data](https://www.ceicdata.com/en)
+- [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+- [CNBC](https://www.cnbc.com/markets/)
+- [CSIMarket](https://csimarket.com/)
+- [Capital.com Financial Dictionary](https://capital.com/financial-dictionary)
+- [Capital.com](https://capital.com/trading/platform/)
+- [Coding Finance](https://www.codingfinance.com/)
+- [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
+- [Crunchbase](https://www.crunchbase.com/)
+- [Currency Converter API](https://www.currencyconverterapi.com/)
+- [Currency Layer](https://currencylayer.com/)
+- [DataHub](https://datahub.io/search)
+- [Datapine](https://www.datapine.com/live-dashboards)
+- [Docoh](https://www.docoh.com/)
+- [EIKON Thomson Reuters](https://eikon.thomsonreuters.com/index.html)
+- [EMIS](https://www.emis.com/)
+- [EOCD](https://www.oecd.org/)
+- [EODH Historical Data](https://eodhistoricaldata.com/)
+- [ETF](https://www.etf.com/)
+- [Econoday](https://global-premium.econoday.com/byweek.asp?cust=global-premium)
+- [Economic Research](https://fred.stlouisfed.org)
+- [Economist](https://www.economist.com/)
+- [Exchange Rates API](https://exchangeratesapi.io/)
+- [FCS API](https://fcsapi.com/)
+- [Fidelity](https://www.fidelity.com/)
+- [Finance Train](https://financetrain.com/)
+- [Financial Juice](https://www.financialjuice.com/home)
+- [Financial Modeling Prep](https://financialmodelingprep.com/developer/docs/)
+- [Financial Times](https://www.ft.com/)
+- [Finnhub API](https://finnhub.io/docs/api)
+- [Fintel](https://fintel.io/)
+- [Finviz](https://finviz.com/)
+- [Fixer](https://fixer.io/)
+- [Fool](https://www.fool.com/)
+- [Forbes](https://www.forbes.com/)
+- [Google Finance](https://www.google.com/finance)
+- [Guide to Wise Investing](https://junghoon-shin.github.io/)
+- [Guru Fokus](https://www.gurufocus.com/screener)
+- [GuruFocus Index](https://www.gurufocus.com/new_index/)
+- [High Sort Interest](https://www.highshortinterest.com/)
+- [HowMuch](https://howmuch.net/)
+- [IEX Cloud API](https://iexcloud.io/core-data-catalog/)
+- [IMF Data](https://www.imf.org/en/Data)
+- [ION](https://iongroup.com/ion-markets/eq/fidessa/)
+- [Interactive Brokers](https://www.interactivebrokers.com/en/index.php/)
+- [Intrinio API](https://docs.intrinio.com/documentation/api_v2/getting_started)
+- [Investing Answers](https://investinganswers.com/)
+- [Investing.com](https://www.investing.com/)
+- [Investopedia](https://www.investopedia.com/)
+- [Investor Place](https://investorplace.com/)
+- [Investors.com](https://www.investors.com/)
+- [InvestorsHub](https://investorshub.advfn.com/)
+- [KoyFin](https://www.koyfin.com/data-coverage/stocks/)
+- [LongTermTrends](https://www.longtermtrends.net/)
+- [MSN Money](https://www.msn.com/en-my/money)
+- [Macroaxis](https://www.macroaxis.com/)
+- [Macrotrends](https://www.macrotrends.net/)
+- [MarketWatch](https://www.marketwatch.com/investing/stocks)
+- [Modulusfe](http://www.modulusfe.com/)
+- [Money.net](https://www.money.net/)
+- [Moody Analytics](https://www.moodysanalytics.com/)
+- [Morningstar](https://www.morningstar.com/products)
+- [Nasdaq](https://www.nasdaq.com/)
+- [News API](https://newsapi.org/docs)
+- [OANDA API](https://developer.oanda.com/rest-live-v20/introduction/)
+- [OECD Data](https://data.oecd.org/)
+- [Open Exchanges Rates](https://openexchangerates.org/)
+- [Ortex](https://www.ortex.com/)
+- [Penny Stock Flow](https://www.pennystockflow.com/)
+- [Polygon](https://polygon.io/docs/getting-started)
+- [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
+- [Quandl](https://www.quandl.com/search)
+- [RISKO](http://www.risk-o.com/)
+- [RangingBull](https://ragingbull.com/)
+- [Refinitiv](https://www.refinitiv.com/en)
+- [Reuters Market](https://www.reuters.com/markets)
+- [Riskalyze Alignment](https://www.riskalyze.com/alignment)
+- [SAXO Bank OpenAPI](https://www.developer.saxo/openapi/learn)
+- [Seeking Alpha News](https://seekingalpha.com/)
+- [Seeking Alpha Screeners](https://seekingalpha.com/screeners)
+- [SimFin](https://github.com/SimFin)
+- [SimplyWall.st](https://simplywall.st)
+- [SlickCharts](https://www.slickcharts.com/)
+- [Space Hero](https://www.spachero.com/)
+- [Statista](https://www.statista.com/)
+- [Stock Rover](https://www.stockrover.com/)
+- [StockCharts](https://stockcharts.com/)
+- [Stockbit](https://my.stockbit.com/)
+- [Stockpedia](https://www.stockopedia.com/)
+- [Stocktwits](https://stocktwits.com/)
+- [StocksToTrade](https://stockstotrade.com/)
+- [Street Insider](https://www.streetinsider.com/)
+- [TechCrunch](https://techcrunch.com/)
+- [The Balance](https://www.thebalance.com/)
+- [Tiingo](https://www.tiingo.com/)
+- [Tradier Market Data API](https://tradier.com/products/market-data-api)
+- [Trading Economics](https://tradingeconomics.com/indicators)
+- [Trading Station](https://www.tradestation.com/)
+- [TradingView](https://www.tradingview.com/)
+- [Tradings Strategy Guides](https://tradingstrategyguides.com/)
+- [Twelvedate API](https://twelvedata.com/docs#getting-started)
+- [USA Debt Clock](https://usdebtclock.org/#)
+- [Unusual Whales](https://unusualwhales.com/spacs)
+- [Visual Capitalist](https://www.visualcapitalist.com/category/misc/)
+- [Wall Street Journal](https://www.wsj.com/news/markets)
+- [Wall Street Journal](https://www.wsj.com/news/markets?mod=nav_top_section)
+- [Wealth-Lab](https://www.wealth-lab.com/)
+- [World Bank Data](https://data.worldbank.org/)
+- [XE](https://www.xe.com/xecurrencydata/)
+- [Xignite](https://www.xignite.com/)
+- [Yahoo Finance](https://finance.yahoo.com/)
+- [Yewno Edge](https://edge.yewno.com/)
+- [Zacks](https://www.zacks.com/)
+- [Zerodha](https://zerodha.com/varsity/)
+- [Zigma](https://ziggma.com/)
+- [darqube](https://darqube.com/)
+- [dataroma](https://www.dataroma.com/m/home.php)
+- [finbox](https://finbox.com/)
+- [lowfloat](https://www.lowfloat.com/)
+- [marketstack](https://marketstack.com/documentation)
+- [mediastack](https://mediastack.com/documentation)
+- [multpl](https://www.multpl.com/cpi)
+- [riskalyze](https://www.riskalyze.com/advisors)
+- [yCharts](https://ycharts.com/)
