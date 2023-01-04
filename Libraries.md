@@ -24,15 +24,16 @@
 
 ## Technical Analysis Library
 
-| Name                                                                            | Description | Language | License | Last Update                                                                       |
-| ------------------------------------------------------------------------------- | ----------- | :------- | :------ | :-------------------------------------------------------------------------------- |
-| [bukosabino/ta](https://github.com/bukosabino/ta)                               |             | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/bukosabino/ta)                |
-| [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib)         |             | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/femtotrader/pandas_talib)     |
-| [freqtrade/technical](https://github.com/freqtrade/technical)                   |             | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/freqtrade/technical)          |
-| [kylejusticemagnuson/pyti](https://github.com/kylejusticemagnuson/pyti)         |             | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/kylejusticemagnuson/pyti)     |
-| [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib)                               |             | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/mrjbq7/ta-lib)                |
-| [nardew/talipp](https://github.com/nardew/talipp)                               |             | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/nardew/talipp)                |
-| [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)                   |             | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/twopirllc/pandas-ta)          |
+| Name                                                                    | Language | License | Last Update                                                                   |
+| ----------------------------------------------------------------------- | :------- | :------ | :---------------------------------------------------------------------------- |
+| [bukosabino/ta](https://github.com/bukosabino/ta)                       | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/bukosabino/ta)            |
+| [femtotrader/pandas_talib](https://github.com/femtotrader/pandas_talib) | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/femtotrader/pandas_talib) |
+| [freqtrade/technical](https://github.com/freqtrade/technical)           | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/freqtrade/technical)      |
+| [kylejusticemagnuson/pyti](https://github.com/kylejusticemagnuson/pyti) | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/kylejusticemagnuson/pyti) |
+| [mementum/bta-lib](https://github.com/mementum/bta-lib)                 | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/mementum/bta-lib)         |
+| [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib)                       | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/mrjbq7/ta-lib)            |
+| [nardew/talipp](https://github.com/nardew/talipp)                       | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/nardew/talipp)            |
+| [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta)           | Python   | MIT     | ![update](https://img.shields.io/github/last-commit/twopirllc/pandas-ta)      |
 
 ## Portfolio Optimization
 
